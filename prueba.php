@@ -10,7 +10,7 @@
 		$arreglo=array();
 		require_once("adodb/adodb.inc.php");
 		$db = NewADOConnection("mysql");
-		$db -> Connect("kabah.lcg.unam.mx", "lcollado", "lco771", "BPdB") or die($db -> 	ErrorMsg() . " " . __LINE__);
+		$db -> Connect("www.lcg.unam.mx", "lcollado", "lco771", "BPdB") or die($db -> 	ErrorMsg() . " " . __LINE__);
 		$query = "SELECT field_name FROM fields WHERE field_type LIKE '$tipo';";
 		$rs = $db -> Execute($query) or die($db -> 	ErrorMsg() . " " . __LINE__);
 		while($row = $rs -> FetchRow()) { 

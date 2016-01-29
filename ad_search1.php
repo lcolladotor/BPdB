@@ -6,7 +6,7 @@
    $cont=0;
    require_once("adodb/adodb.inc.php");
     $db = NewADOConnection("mysql");
-    $db -> Connect("kabah.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
+    $db -> Connect("www.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
   $query="SELECT field_name FROM fields WHERE field_type  LIKE '$field_type';";
   $rs = $db -> Execute($query) or die($db -> 	ErrorMsg() . " " . __LINE__);
   while($row = $rs -> FetchRow()) { 

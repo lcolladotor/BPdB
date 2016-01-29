@@ -33,8 +33,8 @@ a:active {
 <div align="center">
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#FFFFFF">
 	<tr>
-	<td width="150"><div align="left"><a href="http://kabah.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self"><img src="http://kabah.lcg.unam.mx/~lcollado/BPdB/logo_BPdB_3.gif" width="150" height="100" border="0"/></a></div></td>
-    <td width="150"><div align="left"><a href="http://www.unam.mx" target="_self"><img src="http://kabah.lcg.unam.mx/~lcollado/BPdB/logoUNAM.jpg" width="150" height="127" border="0"/></a></div></td>
+	<td width="150"><div align="left"><a href="http://www.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self"><img src="http://www.lcg.unam.mx/~lcollado/BPdB/logo_BPdB_3.gif" width="150" height="100" border="0"/></a></div></td>
+    <td width="150"><div align="left"><a href="http://www.unam.mx" target="_self"><img src="http://www.lcg.unam.mx/~lcollado/BPdB/logoUNAM.jpg" width="150" height="127" border="0"/></a></div></td>
     <td width="300"></td>
 
   <td width="100"><div align="center"><a href="index.php" target="_self">Home</a></div></td>
@@ -72,7 +72,7 @@ a:active {
 	$query="SELECT * FROM phage WHERE phage_species = '$var_pha'";
 	require_once("adodb/adodb.inc.php");
 	$db = NewADOConnection("mysql");          
-	$db ->Connect("kabah.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
+	$db ->Connect("www.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
 ?>
 <style type="text/css">
 <!--

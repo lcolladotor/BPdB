@@ -54,7 +54,7 @@ a:active {
 			 
 			 require_once("adodb/adodb.inc.php");
 			 $db = NewADOConnection("mysql");
-			 $db -> Connect("kabah.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
+			 $db -> Connect("www.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
 			 
 			 if ($option == "phage_species") {
 			 	$query = "SELECT *

@@ -36,8 +36,8 @@ a:active {
 <div align="center">
   <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#FFFFFF">
 	<tr>
-	<td width="150"><div align="left"><a href="http://kabah.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self"><img src="http://kabah.lcg.unam.mx/~lcollado/BPdB/logo_BPdB_3.gif" width="150" height="100" border="0"/></a></div></td>
-    <td width="150"><div align="left"><a href="http://www.unam.mx" target="_self"><img src="http://kabah.lcg.unam.mx/~lcollado/BPdB/logoUNAM.jpg" width="150" height="127" border="0"/></a></div></td>
+	<td width="150"><div align="left"><a href="http://www.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self"><img src="http://www.lcg.unam.mx/~lcollado/BPdB/logo_BPdB_3.gif" width="150" height="100" border="0"/></a></div></td>
+    <td width="150"><div align="left"><a href="http://www.unam.mx" target="_self"><img src="http://www.lcg.unam.mx/~lcollado/BPdB/logoUNAM.jpg" width="150" height="127" border="0"/></a></div></td>
     <td width="300"></td>
 
   <td width="100"><div align="center"><a href="index.php" target="_self">Home</a></div></td>
@@ -69,7 +69,7 @@ a:active {
 		   $cont=0;
 		   require_once("adodb/adodb.inc.php");
 			$db = NewADOConnection("mysql");
-			$db -> Connect("kabah.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
+			$db -> Connect("www.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db ->ErrorMsg()." " . __LINE__);
 		  $query="SELECT field_name FROM fields WHERE field_type  LIKE '$field_type';";
 		  $rs = $db -> Execute($query) or die($db -> 	ErrorMsg() . " " . __LINE__);
 		  while($row = $rs -> FetchRow()) { 
@@ -83,7 +83,7 @@ a:active {
 			$result2=array();
 		   require_once("adodb/adodb.inc.php");
 			$db2 = NewADOConnection("mysql");
-			$db2 -> Connect("kabah.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db2 ->ErrorMsg()." " . __LINE__);
+			$db2 -> Connect("www.lcg.unam.mx", "lbezares","lbe431","BPdB") or die($db2 ->ErrorMsg()." " . __LINE__);
 		  $query2="SELECT db_field FROM fields WHERE field_type  LIKE '$tipo_campo';";
 		  $rs2 = $db2 -> Execute($query2) or die($db2 -> 	ErrorMsg() . " " . __LINE__);
 		  while($row = $rs2 -> FetchRow()) { 
