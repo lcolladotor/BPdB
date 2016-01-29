@@ -1,3 +1,11 @@
+---
+title: "BacterioPhages data Base"
+date: "`r doc_date()`"
+output: 
+  BiocStyle::html_document:
+    toc: false
+---
+
 This is a project carried out by:
 
 * [Maria Gutierrez-Arcelus](<mailto:mgutierr@broadinstitute.org>)
