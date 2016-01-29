@@ -43,7 +43,7 @@ a:active {
              </tr>
              <tr> <td><p align="center">&nbsp;</p>
              <p align="justify">Hello visitor,</p>
-             <p align="justify">First of all, if you would like to know what BPdB is about please go to the <a href="http://kabah.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self">home page</a>. Furthermore, you may contact any of the staff from the page <a href="http://kabah.lcg.unam.mx/~lcollado/BPdB/about.php" target="_self">about us</a>. We are always open to suggestions, remarks and constructive criticism.</p>
+             <p align="justify">First of all, if you would like to know what BPdB is about please go to the <a href="http://www.lcg.unam.mx/~lcollado/BPdB/index.php" target="_self">home page</a>. Furthermore, you may contact any of the staff from the page <a href="http://www.lcg.unam.mx/~lcollado/BPdB/about.php" target="_self">about us</a>. We are always open to suggestions, remarks and constructive criticism.</p>
              <p align="justify">&nbsp;</p>
              <p align="justify">Below you'll find explanations for specifics parts of the site.</p>
              <p align="justify"><strong>Basic Search</strong></p>
