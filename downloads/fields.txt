@@ -1,0 +1,35 @@
+1	Species	phage_species	phage	Phage_taxonomy
+2	Nucleic acid	phage_nucleic_acid	phage	Phage
+3	Topology	phage_topology	phage	Phage
+4	Phage Taxid	phage_taxid	phage	Phage_taxonomy
+5	Family	p_family_name	p_family	Phage_taxonomy
+6	Family Taxid	p_family_taxid	p_family	Phage_taxonomy
+7	Genus Taxid	p_genus_taxid	p_genus	Phage_taxonomy
+8	Order Taxid	p_order_taxid	p_order	Phage_taxonomy
+9	Genus	p_genus_name	p_genus	Phage_taxonomy
+10	Order	p_order_name	p_order	Phage_taxonomy
+11	Acc. Taxid	host_taxid	host_taxonomy	Host_taxonomy
+12	Phylum Taxid	phylum_taxid	host_taxonomy	Host_taxonomy
+13	Phylum	phylum_name	host_taxonomy	Host_taxonomy
+14	Class	class_name	host_taxonomy	Host_taxonomy
+15	Class Taxid	class_taxid	host_taxonomy	Host_taxonomy
+16	Order	order_name	host_taxonomy	Host_taxonomy
+17	Order Taxid	order_taxid	host_taxonomy	Host_taxonomy
+18	Family	family_name	host_taxonomy	Host_taxonomy
+19	Family Taxid	family_taxid	host_taxonomy	Host_taxonomy
+20	Genus	genus_name	host_taxonomy	Host_taxonomy
+21	Genus Taxid	genus_taxid	host_taxonomy	Host_taxonomy
+22	Species	species_name	host_taxonomy	Host_taxonomy
+23	Species Taxid	species_taxid	host_taxonomy	Host_taxonomy
+24	Suborder	suborder_name	host_taxonomy	Host_taxonomy
+25	Suborder Taxid	suborder_taxid	host_taxonomy	Host_taxonomy
+26	Species Group	species_group_name	host_taxonomy	Host_taxonomy
+27	Species Group Taxid	species_group_taxid	host_taxonomy	Host_taxonomy
+28	Name	pg_name	phage_gene	Gene
+29	Acc.number	pg_accession_number	phage_gene	Protein
+30	Genome size	phage_genome_size	phage_gene	Phage
+31	G+C content	phage_gc_content	phage_gene	Phage
+32	Name	pg_product_name	phage_gene	Protein
+33	GO	ref_accession_number	ref	Protein
+34	Interpro	ref_accession_number	ref	Protein
+34 rows

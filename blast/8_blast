@@ -1,0 +1,56 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= gi|154684990|ref|YP_001420151.1| YddJ [Bacillus
+amyloliquefaciens FZB42]
+         (160 letters)
+
+Database: blastp/all_proteins.fasta 
+           26,402 sequences; 5,567,486 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+  Database: blastp/all_proteins.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 5,567,486
+  Number of sequences in database:  26,402
+  
+Lambda     K      H
+   0.321    0.138    0.407 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 26402
+Number of Hits to DB: 1,879,653
+Number of extensions: 82206
+Number of successful extensions: 233
+Number of sequences better than 1.0e-01: 0
+Number of HSP's gapped: 239
+Number of HSP's successfully gapped: 0
+Length of query: 160
+Length of database: 5,567,486
+Length adjustment: 84
+Effective length of query: 76
+Effective length of database: 3,349,718
+Effective search space: 254578568
+Effective search space used: 254578568
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.8 bits)
+S2: 70 (31.6 bits)

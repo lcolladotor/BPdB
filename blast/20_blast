@@ -1,0 +1,2375 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= 
+         (441 letters)
+
+Database: blastp/all_proteins.fasta 
+           26,402 sequences; 5,567,486 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+15089_blastp/all_proteins.fasta                                        48   4e-06
+658_blastp/all_proteins.fasta name|YP_918943|A0ZS54|13                 44   8e-05
+5269_blastp/all_proteins.fasta name|NP_958210|Q716E2|98                41   5e-04
+4907_blastp/all_proteins.fasta                                         41   5e-04
+3677_blastp/all_proteins.fasta                                         40   7e-04
+25333_blastp/all_proteins.fasta                                        40   0.001
+5505_blastp/all_proteins.fasta name|NP_463533|Q94MA1|102               40   0.001
+2480_blastp/all_proteins.fasta name|NP_116508|Q94MA1|102               40   0.001
+19285_blastp/all_proteins.fasta name|YP_699934|Q0SPL2|276              38   0.004
+15451_blastp/all_proteins.fasta                                        38   0.005
+14823_blastp/all_proteins.fasta                                        38   0.005
+14391_blastp/all_proteins.fasta                                        37   0.006
+12909_blastp/all_proteins.fasta name|NP_944282|Q6V7P1|192              37   0.010
+24417_blastp/all_proteins.fasta name|YP_874183|A1EAB2|378              36   0.013
+4990_blastp/all_proteins.fasta name|NP_817331|Q859I9|94                36   0.018
+25340_blastp/all_proteins.fasta                                        35   0.023
+6435_blastp/all_proteins.fasta name|NP_945243|Q708S0|120               35   0.030
+6844_blastp/all_proteins.fasta name|YP_195273|Q2Z127|123               35   0.039
+15956_blastp/all_proteins.fasta                                        34   0.051
+21275_blastp/all_proteins.fasta name|YP_529896|Q1WDF5|342              34   0.067
+24174_blastp/all_proteins.fasta name|YP_874091|A0MN95|374              33   0.087
+5434_blastp/all_proteins.fasta                                         33   0.087
+8575_blastp/all_proteins.fasta name|YP_398480|Q332H7|145               33   0.11 
+980_blastp/all_proteins.fasta                                          33   0.11 
+686_blastp/all_proteins.fasta                                          33   0.11 
+10241_blastp/all_proteins.fasta                                        32   0.19 
+24239_blastp/all_proteins.fasta name|YP_874156|A0MNG0|374              32   0.25 
+21491_blastp/all_proteins.fasta                                        32   0.25 
+15574_blastp/all_proteins.fasta                                        32   0.25 
+13742_blastp/all_proteins.fasta name|NP_938262|Q6EDX5|242              32   0.25 
+16112_blastp/all_proteins.fasta                                        32   0.33 
+3086_blastp/all_proteins.fasta                                         32   0.33 
+2976_blastp/all_proteins.fasta                                         32   0.33 
+21074_blastp/all_proteins.fasta name|YP_460017|Q2LIB9|339              31   0.43 
+21021_blastp/all_proteins.fasta name|YP_459978|Q2LIH2|338              31   0.43 
+20867_blastp/all_proteins.fasta name|YP_338236|Q3HL06|335              31   0.43 
+20814_blastp/all_proteins.fasta name|YP_338197|Q3HL06|335              31   0.43 
+20763_blastp/all_proteins.fasta name|YP_338146|Q3HL62|333              31   0.43 
+20631_blastp/all_proteins.fasta name|YP_717900|Q2I8F0|331              31   0.43 
+19389_blastp/all_proteins.fasta name|YP_406405|Q30LB7|279              31   0.43 
+18446_blastp/all_proteins.fasta name|YP_239564|Q4Z9B6|271              31   0.43 
+7228_blastp/all_proteins.fasta name|YP_112541|Q3V4Q8|127               31   0.43 
+5795_blastp/all_proteins.fasta name|NP_543109|Q8W611|107               31   0.43 
+24370_blastp/all_proteins.fasta name|YP_874183|A2I2Y1|376              31   0.57 
+16756_blastp/all_proteins.fasta name|YP_214758|Q4ZE56|250              30   0.74 
+13878_blastp/all_proteins.fasta name|NP_958538|Q6SED3|207              30   0.74 
+2425_blastp/all_proteins.fasta                                         30   0.74 
+11429_blastp/all_proteins.fasta                                        30   0.96 
+3922_blastp/all_proteins.fasta name|NP_570353|Q8W6Y8|76                30   0.96 
+6350_blastp/all_proteins.fasta name|NP_892071|Q7Y3Z0|118               30   1.3  
+5362_blastp/all_proteins.fasta name|NP_050116|Q9T1J2|100               30   1.3  
+24171_blastp/all_proteins.fasta name|YP_874088|A0MN92|374              29   1.6  
+19059_blastp/all_proteins.fasta                                        29   1.6  
+17379_blastp/all_proteins.fasta name|YP_239564|Q4ZCD3|259              29   1.6  
+17302_blastp/all_proteins.fasta name|YP_239564|Q4ZCL0|258              29   1.6  
+17233_blastp/all_proteins.fasta name|YP_239564|Q4ZCS9|257              29   1.6  
+17157_blastp/all_proteins.fasta name|YP_239564|Q4ZD05|256              29   1.6  
+10221_blastp/all_proteins.fasta                                        29   1.6  
+4512_blastp/all_proteins.fasta name|NP_803347|Q8SDP3|82                29   1.6  
+313_blastp/all_proteins.fasta name|NP_061653|Q9B0D2|9                  29   1.6  
+20737_blastp/all_proteins.fasta                                        29   2.1  
+19046_blastp/all_proteins.fasta                                        29   2.1  
+15456_blastp/all_proteins.fasta                                        29   2.1  
+14828_blastp/all_proteins.fasta                                        29   2.1  
+14398_blastp/all_proteins.fasta                                        29   2.1  
+24534_blastp/all_proteins.fasta name|YP_874183|A1YZX6|379              28   2.8  
+21204_blastp/all_proteins.fasta name|YP_529896|Q0H230|341              28   2.8  
+20537_blastp/all_proteins.fasta                                        28   2.8  
+19369_blastp/all_proteins.fasta name|YP_406385|Q30LD7|279              28   2.8  
+18426_blastp/all_proteins.fasta name|YP_239564|Q4Z9D6|271              28   2.8  
+13807_blastp/all_proteins.fasta name|NP_945075|Q6JII8|206              28   2.8  
+12313_blastp/all_proteins.fasta                                        28   2.8  
+22496_blastp/all_proteins.fasta                                        28   3.7  
+12732_blastp/all_proteins.fasta                                        28   3.7  
+3429_blastp/all_proteins.fasta name|NP_944890|Q6KGJ0|67                28   3.7  
+3428_blastp/all_proteins.fasta name|NP_944889|Q6KGJ1|67                28   3.7  
+1245_blastp/all_proteins.fasta                                         28   3.7  
+24300_blastp/all_proteins.fasta name|YP_874183|A0MZC3|375              28   4.8  
+20963_blastp/all_proteins.fasta name|YP_338236|Q09WP6|337              28   4.8  
+20909_blastp/all_proteins.fasta name|YP_338236|Q09WV0|336              28   4.8  
+19560_blastp/all_proteins.fasta name|YP_249597|Q09YG5|281              28   4.8  
+9704_blastp/all_proteins.fasta                                         28   4.8  
+8180_blastp/all_proteins.fasta name|NP_859266|Q7Y2W1|141               28   4.8  
+8014_blastp/all_proteins.fasta name|NP_859100|Q7Y3C2|140               28   4.8  
+7847_blastp/all_proteins.fasta name|NP_612900|Q8SCA4|139               28   4.8  
+7739_blastp/all_proteins.fasta name|NP_050558|Q776P1|137               28   4.8  
+6246_blastp/all_proteins.fasta name|NP_813746|Q6H9T2|116               28   4.8  
+1984_blastp/all_proteins.fasta name|NP_049908|Q9XJR4|41                28   4.8  
+1888_blastp/all_proteins.fasta                                         28   4.8  
+1421_blastp/all_proteins.fasta name|NP_569806|Q9ZX08|28                28   4.8  
+898_blastp/all_proteins.fasta name|NP_044951|O21872|20                 28   4.8  
+834_blastp/all_proteins.fasta name|NP_047118|O80106|19                 28   4.8  
+26034_blastp/all_proteins.fasta                                        27   6.3  
+23714_blastp/all_proteins.fasta name|YP_950667|A1BU53|370              27   6.3  
+23666_blastp/all_proteins.fasta name|YP_950620|A1BTX2|369              27   6.3  
+22360_blastp/all_proteins.fasta                                        27   6.3  
+15093_blastp/all_proteins.fasta                                        27   6.3  
+13934_blastp/all_proteins.fasta name|NP_958594|Q6SE70|208              27   6.3  
+10935_blastp/all_proteins.fasta name|YP_003920|Q6XQB2|174              27   6.3  
+9806_blastp/all_proteins.fasta                                         27   6.3  
+7573_blastp/all_proteins.fasta name|YP_399019|Q0E5Z6|135               27   6.3  
+23730_blastp/all_proteins.fasta name|YP_950683|A1BU69|370              27   8.2  
+16160_blastp/all_proteins.fasta name|YP_214251|Q58MY6|246              27   8.2  
+15239_blastp/all_proteins.fasta name|YP_164334|Q5ULP4|227              27   8.2  
+6869_blastp/all_proteins.fasta name|YP_195273|Q2Z102|123               27   8.2  
+1694_blastp/all_proteins.fasta name|NP_108726|Q9AYV8|34                27   8.2  
+
+>15089_blastp/all_proteins.fasta 
+          Length = 1223
+
+ Score = 47.8 bits (112), Expect = 4e-06
+ Identities = 61/261 (23%), Positives = 103/261 (39%), Gaps = 30/261 (11%)
+
+Query: 45  SQTAIDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAK----------YTDLFEK 94
+           + T ID  + T+K YQDS+    A  +Q  +EA+ R EE+ AK            D  E 
+Sbjct: 495 TDTLIDSVNNTSKAYQDSLGDIEA-NSQANKEAAERIEELAAKENKSAAEKRMLQDEIES 553
+
+Query: 95  AVKRADDTSRWAKDNCEA--AVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSD----- 147
+              R DD +    +  +A     +  EA + I     S   A +  +  +KE++D     
+Sbjct: 554 LNGRVDDLNLSYDEEADALNMSSEQLEARVDIMKEEESLLAARERQVEISKEINDAEMQL 613
+
+Query: 148 ECIRASRDAVSQSDETIDMLKK-------TADVSVRASESALLKMQENGARIRENVDTNV 200
+           + I A R+  +Q  E   +  K         D   +A    L  +    A   + + T+ 
+Sbjct: 614 KEINALREEWNQKLEEGSVKSKEHKEAIAELDEQEQALTDTLEGLSVQQAETEDQITTST 673
+
+Query: 201 KNSTKAIAEMNQLSQNSSAEISELINKLQNEICK-----AEAMNAQMKHLVDSSNAHLKE 255
+           +N T AI   N     S  ++ +   K+ + + +     AE        + D S A  +E
+Sbjct: 674 ENITAAIESGNLRQITSYEDLEDHHKKVFDNMAERYDDLAEHATNAFDKMNDESKATAEE 733
+
+Query: 256 TVSRVEEVQQNTVQAVKQIQE 276
+            +  +E  Q+ T Q  + + E
+Sbjct: 734 MIENLEHNQEMTRQWSENVAE 754
+
+
+>658_blastp/all_proteins.fasta name|YP_918943|A0ZS54|13
+          Length = 1224
+
+ Score = 43.5 bits (101), Expect = 8e-05
+ Identities = 44/211 (20%), Positives = 93/211 (44%), Gaps = 36/211 (17%)
+
+Query: 75  EEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQA 134
+           E+A++ ++E L  Y D  +   ++        K + E      ++A  ++E+A ++A+  
+Sbjct: 636 EQANQEAQEALKSYIDAQDDLKEKESQAYADGKIS-EEEQRAIQDAQAKLEEAKQNAELK 694
+
+Query: 135 AQDSIRTAKEMSDECIRASRDA--------------------VSQSDETIDMLKKT---- 170
+           A+++ + A   +D  ++ S DA                    +  + E  +  K+T    
+Sbjct: 695 ARNAEKKANAYTDNKVKESTDAQRKTLTRYGSQIIQNGKEIKLRTTKEEFNASKRTLSRV 754
+
+Query: 171 -ADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQ 229
+            AD++V A +   L+  ENGA     +D   K+  K   +   ++ N   E + + N + 
+Sbjct: 755 LADITVNAMKGIYLRYDENGAITSHTID---KDGVKISGDKVDITAN--REFNVVANNIN 809
+
+Query: 230 NEICKAEAMNAQMKHLVDSSNAHLKETVSRV 260
+           N++ K + +N+     ++ SN  L   V+R+
+Sbjct: 810 NKVGKNDIVNS-----LNLSNEGLDINVNRI 835
+
+
+>5269_blastp/all_proteins.fasta name|NP_958210|Q716E2|98
+          Length = 322
+
+ Score = 40.8 bits (94), Expect = 5e-04
+ Identities = 46/177 (25%), Positives = 71/177 (40%), Gaps = 29/177 (16%)
+
+Query: 73  KAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK 132
+           KAE+  R  EE L +  +  EKA  RA+  ++ AK   EAA  +  EA    E A R   
+Sbjct: 157 KAEQEKREHEERLKREAE--EKA--RAEAEAK-AKAEIEAAARREAEAKAAAERAERERI 211
+
+Query: 133 QAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARI 192
+           +A Q + R AKE ++   R  + A+                     E+   K QE   RI
+Sbjct: 212 EAEQRAQREAKEAAERAEREKQAAI---------------------EAERRKAQEEAERI 250
+
+Query: 193 RENVDTNVK---NSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLV 246
+           R   +   +      K I +  +      A   E+ NK+  ++ K  A     K+++
+Sbjct: 251 RREAEAKEQARIAEEKRIKDEEERRAKDKAHRKEVNNKILADLIKVGASEDVAKNII 307
+
+
+>4907_blastp/all_proteins.fasta 
+          Length = 1711
+
+ Score = 40.8 bits (94), Expect = 5e-04
+ Identities = 45/221 (20%), Positives = 91/221 (41%), Gaps = 11/221 (4%)
+
+Query: 44   DSQTAIDKA-DTTAKQYQDSMDKYTAL----YTQKAEEASRRSEEMLAKYTDLFEKAVKR 98
+            D+  AI+K     + QYQ  M+K  A     + +  + A ++  E + K    + K   +
+Sbjct: 1064 DALLAIEKKYGKNSPQYQKEMNKEIAKENSDFNKAQKAAKKKHNEAMDKLEKDYAKNQTK 1123
+
+Query: 99   ADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVS 158
+            A++    ++ N    + Q K+  L  +   +  K   +  I T ++  DE       A  
+Sbjct: 1124 AEEQMN-SQINTATKIAQNKQMDLLEDLKNKKGKLNQKQLIDTIEKADDEYKGVKDKAQK 1182
+
+Query: 159  QSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSS 218
+            Q DE +    +    +V A++    +  ENG+  +   D  VKN+ K   +    ++   
+Sbjct: 1183 QKDEAVKAANEKYKKTVAAADK---ERAENGSMSKAQYDEIVKNAKKQRDDTISSAKKQQ 1239
+
+Query: 219  AEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSR 259
+             ++++   K  ++    E  N++    V ++     ETV +
+Sbjct: 1240 EDVTDKAQKTHDK--TVELANSKADKNVKAAAKEQGETVEQ 1278
+
+
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 29/133 (21%), Positives = 51/133 (38%), Gaps = 29/133 (21%)
+
+Query: 49   IDKADTTAKQYQDSM------------DKYTALYTQKAEEASRRSEEMLAKYTDLFEKAV 96
+            I+KAD   K  +D              +KY        +E +       A+Y ++ + A 
+Sbjct: 1166 IEKADDEYKGVKDKAQKQKDEAVKAANEKYKKTVAAADKERAENGSMSKAQYDEIVKNAK 1225
+
+Query: 97   KRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDA 156
+            K+ DDT   AK               + ED T  A++    ++  A   +D+ ++A   A
+Sbjct: 1226 KQRDDTISSAKK--------------QQEDVTDKAQKTHDKTVELANSKADKNVKA---A 1268
+
+Query: 157  VSQSDETIDMLKK 169
+              +  ET++   K
+Sbjct: 1269 AKEQGETVEQYTK 1281
+
+
+>3677_blastp/all_proteins.fasta 
+          Length = 1640
+
+ Score = 40.4 bits (93), Expect = 7e-04
+ Identities = 41/206 (19%), Positives = 83/206 (40%), Gaps = 10/206 (4%)
+
+Query: 58   QYQDSMDKYTAL----YTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAA 113
+            +YQ  M+K  A     + +  + A ++  E + K    + K   +A++     + N    
+Sbjct: 1010 EYQQEMNKEIAKENSDFNKAQQAAKKKHNEAMNKLEKDYAKTQTKAEEQMN-NQINTATK 1068
+
+Query: 114  VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADV 173
+            + Q K+  L  +   +  K   +  I T ++  DE       A  Q DE +    +    
+Sbjct: 1069 IAQNKQLDLLDDLKNKKGKLNQKQLIDTLEKADDEYKGVKDKAQKQKDEAVKAANEKYKK 1128
+
+Query: 174  SVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEIC 233
+            +V A++    +  ENG+  +   D  VKN+ K   +    ++    E+++   K  ++  
+Sbjct: 1129 TVAAADK---ERAENGSMSKAQYDEIVKNAQKQRDDTISAAKKQQTEVTDKAQKTHDK-- 1183
+
+Query: 234  KAEAMNAQMKHLVDSSNAHLKETVSR 259
+              E  N++    V ++     ETV +
+Sbjct: 1184 TVELANSKADKNVKAAAKEQGETVEQ 1209
+
+
+
+ Score = 30.4 bits (67), Expect = 0.74
+ Identities = 38/179 (21%), Positives = 67/179 (37%), Gaps = 17/179 (9%)
+
+Query: 109 NCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAV----SQSDETI 164
+           N E+ +G+    + +  +       A    +++A   S   I A   A       + E  
+Sbjct: 234 NSESLIGKGLNTVYQTTEKATDVMAAGYQKVKSAAYQSAFGIAAIGAAAVKGAQMASELQ 293
+
+Query: 165 DMLKKTADVSVRASESA------LLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSS 218
+           +  K T ++ V   E A      + KMQE G+ +        K       E+ +    SS
+Sbjct: 294 NQYKTTFNLLVTGGEQAKEAQENVNKMQEQGSELSVKYGKTQKEIADGYQELIKRGYTSS 353
+
+Query: 219 AEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEV---QQNTVQAVKQI 274
+             ++ L   LQ  +   +        +V +S A L+    R  +V    +NT +AV Q+
+Sbjct: 354 QALAALPTMLQASVASGD----DFTDVVHNSTAALESFGMRSNDVAGMTKNTKEAVNQM 408
+
+
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 26/121 (21%), Positives = 49/121 (40%), Gaps = 21/121 (17%)
+
+Query: 53   DTTAKQYQDSM----DKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKD 108
+            D   KQ  +++    +KY        +E +       A+Y ++ + A K+ DDT   AK 
+Sbjct: 1109 DKAQKQKDEAVKAANEKYKKTVAAADKERAENGSMSKAQYDEIVKNAQKQRDDTISAAKK 1168
+
+Query: 109  NCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK 168
+                   QT        + T  A++    ++  A   +D+ ++A   A  +  ET++   
+Sbjct: 1169 Q------QT--------EVTDKAQKTHDKTVELANSKADKNVKA---AAKEQGETVEQYT 1211
+
+Query: 169  K 169
+            K
+Sbjct: 1212 K 1212
+
+
+>25333_blastp/all_proteins.fasta 
+          Length = 853
+
+ Score = 40.0 bits (92), Expect = 0.001
+ Identities = 49/226 (21%), Positives = 97/226 (42%), Gaps = 23/226 (10%)
+
+Query: 53  DTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYT---DLFEKAVK-----RADDTSR 104
+           D  A+Q  D+ +     YT++A++A  R +  L KYT   +   KA+K     +AD  + 
+Sbjct: 381 DKNAQQQSDT-EASRLKYTEEAQKAYERLQTPLEKYTARQEELNKALKDGKILQADYNTL 439
+
+Query: 105 W--AKDNCEAAVGQTKEAMLRI------EDATRSAKQAAQDSIRTAKEMSDECIRASRDA 156
+              AK + EA + + K++ +++      ED+  +A    Q  +RT ++ +      + + 
+Sbjct: 440 MAAAKKDYEATLKKPKQSSVKVSAGDRQEDSAHAALLTLQAELRTLEKHA-----GANEK 494
+
+Query: 157 VSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQN 216
+           +SQ    +   +    V   A++   L  QE      ++     K    A+ +     + 
+Sbjct: 495 ISQQRRDLWKAESQFAVLEEAAQRRQLSAQEKSLLAHKDETLEYKRQLAALGDKVTYQER 554
+
+Query: 217 SSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEE 262
+            +A   +     Q +  K  A++A+ + L D   A  + T  R++E
+Sbjct: 555 LNALAQQADKFAQQQRAKRAAIDAKSRGLTD-RQAEREATEQRLKE 599
+
+
+>5505_blastp/all_proteins.fasta name|NP_463533|Q94MA1|102
+          Length = 1713
+
+ Score = 40.0 bits (92), Expect = 0.001
+ Identities = 42/215 (19%), Positives = 82/215 (38%), Gaps = 21/215 (9%)
+
+Query: 58   QYQDSMDKYTAL----YTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAA 113
+            +YQ  M+K  A     + +  + A ++  E + K    + K   +A++    ++ N    
+Sbjct: 1077 EYQQEMNKEIAKENSDFNKAQQAAKKKHNEAMDKLEKDYAKTQTKAEEQMN-SQINTATK 1135
+
+Query: 114  VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADV 173
+            + Q K+  L  +   +  K   +  I T ++  DE       A  Q DE +    +    
+Sbjct: 1136 IAQNKQMDLLEDLKNKKGKLNQKQLIDTIEKADDEYKAVKDKAQKQKDEAVKAANEKYKK 1195
+
+Query: 174  SVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEIC 233
+            +V A++    +  ENG+  +   D  VKN+ K        ++    ++++   K      
+Sbjct: 1196 TVAAADK---ERAENGSMSKAQYDEIVKNAQKQRDGAISAAKKQQEDVTDKAKKTH---- 1248
+
+Query: 234  KAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                     K  +D +N    +TV    + Q  TV
+Sbjct: 1249 ---------KDTIDLANDKADKTVKAAAKEQNETV 1274
+
+
+
+ Score = 37.7 bits (86), Expect = 0.005
+ Identities = 30/131 (22%), Positives = 57/131 (43%), Gaps = 15/131 (11%)
+
+Query: 51   KADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRAD----DTSRWA 106
+            K     KQ  D+++K    Y    ++A ++ +E +    + ++K V  AD    +    +
+Sbjct: 1152 KGKLNQKQLIDTIEKADDEYKAVKDKAQKQKDEAVKAANEKYKKTVAAADKERAENGSMS 1211
+
+Query: 107  KDNCEAAV--------GQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVS 158
+            K   +  V        G    A  + ED T  AK+  +D+I  A + +D+ ++A   A  
+Sbjct: 1212 KAQYDEIVKNAQKQRDGAISAAKKQQEDVTDKAKKTHKDTIDLANDKADKTVKA---AAK 1268
+
+Query: 159  QSDETIDMLKK 169
+            + +ET+    K
+Sbjct: 1269 EQNETVSQYTK 1279
+
+
+>2480_blastp/all_proteins.fasta name|NP_116508|Q94MA1|102
+          Length = 1713
+
+ Score = 40.0 bits (92), Expect = 0.001
+ Identities = 42/215 (19%), Positives = 82/215 (38%), Gaps = 21/215 (9%)
+
+Query: 58   QYQDSMDKYTAL----YTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAA 113
+            +YQ  M+K  A     + +  + A ++  E + K    + K   +A++    ++ N    
+Sbjct: 1077 EYQQEMNKEIAKENSDFNKAQQAAKKKHNEAMDKLEKDYAKTQTKAEEQMN-SQINTATK 1135
+
+Query: 114  VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADV 173
+            + Q K+  L  +   +  K   +  I T ++  DE       A  Q DE +    +    
+Sbjct: 1136 IAQNKQMDLLEDLKNKKGKLNQKQLIDTIEKADDEYKAVKDKAQKQKDEAVKAANEKYKK 1195
+
+Query: 174  SVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEIC 233
+            +V A++    +  ENG+  +   D  VKN+ K        ++    ++++   K      
+Sbjct: 1196 TVAAADK---ERAENGSMSKAQYDEIVKNAQKQRDGAISAAKKQQEDVTDKAKKTH---- 1248
+
+Query: 234  KAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                     K  +D +N    +TV    + Q  TV
+Sbjct: 1249 ---------KDTIDLANDKADKTVKAAAKEQNETV 1274
+
+
+
+ Score = 37.7 bits (86), Expect = 0.005
+ Identities = 30/131 (22%), Positives = 57/131 (43%), Gaps = 15/131 (11%)
+
+Query: 51   KADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRAD----DTSRWA 106
+            K     KQ  D+++K    Y    ++A ++ +E +    + ++K V  AD    +    +
+Sbjct: 1152 KGKLNQKQLIDTIEKADDEYKAVKDKAQKQKDEAVKAANEKYKKTVAAADKERAENGSMS 1211
+
+Query: 107  KDNCEAAV--------GQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVS 158
+            K   +  V        G    A  + ED T  AK+  +D+I  A + +D+ ++A   A  
+Sbjct: 1212 KAQYDEIVKNAQKQRDGAISAAKKQQEDVTDKAKKTHKDTIDLANDKADKTVKA---AAK 1268
+
+Query: 159  QSDETIDMLKK 169
+            + +ET+    K
+Sbjct: 1269 EQNETVSQYTK 1279
+
+
+>19285_blastp/all_proteins.fasta name|YP_699934|Q0SPL2|276
+          Length = 1178
+
+ Score = 38.1 bits (87), Expect = 0.004
+ Identities = 40/200 (20%), Positives = 82/200 (41%), Gaps = 17/200 (8%)
+
+Query: 55  TAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKY-TDLFEKAVKRADDTSRWAKDNCEAA 113
+           TAK   D       L    A     +SE   A    + F K+    +   R  KD  E  
+Sbjct: 9   TAKMVLDDSGYSNTLKGINATLRENKSELKAATSGLNAFGKSTSNVERVQRAFKDQLETQ 68
+
+Query: 114 VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADV 173
+             + K      +D+ + A    + ++ T  ++          ++SQ +  +  LKK    
+Sbjct: 69  AKKVKV----YKDSLKKANDTLEKNVATRSKLVK--------SISQEEAKLSSLKKKYGE 116
+
+Query: 174 SVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISE---LINKLQN 230
+           +  A  +   +++E   ++ E VD+++++++K I   +    N+ AE+++      K  +
+Sbjct: 117 NNDAVRNVEKRLEEYKEKL-EKVDSSIESNSKRIQSYSTQLNNAEAELNKAAAAAKKFND 175
+
+Query: 231 EICKAEAMNAQMKHLVDSSN 250
+           E+ K   +    K L ++S+
+Sbjct: 176 EVAKNNGLKTTSKKLEEASS 195
+
+
+
+ Score = 33.1 bits (74), Expect = 0.11
+ Identities = 35/149 (23%), Positives = 63/149 (42%), Gaps = 21/149 (14%)
+
+Query: 69   LYTQKAEEASRRSEEMLAKYTDLF----EKAVKRADDTSRWAKDNCEAAVGQTKEAMLRI 124
+            +Y + AEE  + +E+     + +     E AVK   D    AK   E   G  +   +  
+Sbjct: 893  IYQKAAEEHRKITEDEFKAISSIQHGMKEDAVKTLSDNEVEAKVILERMKGNDER--ITA 950
+
+Query: 125  EDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDET-----------IDMLKKTADV 173
+            E A++  K+  +      K  ++EC +   + +   DET           I+  K+  D 
+Sbjct: 951  EQASQHIKELNKSRDEAIKAANEECDKRIAEIIRMRDETGTLTAEQADKCIEDAKRQRDE 1010
+
+Query: 174  SVRASE----SALLKMQENGARIRENVDT 198
+            +V A+E     A+ K+    + IR++V+T
+Sbjct: 1011 TVSAAEETRNQAVDKIASMNSNIRDSVNT 1039
+
+
+
+ Score = 30.0 bits (66), Expect = 0.96
+ Identities = 42/235 (17%), Positives = 96/235 (40%), Gaps = 20/235 (8%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAV----KRADDTSRW 105
+           D    T K   + + +YTA+     +    + ++ +  +TD   ++V    K++ +  + 
+Sbjct: 768 DTGTLTQKNKDEIIKQYTAMVNGTKKLTEEQKQKTIKDFTDTLNQSVGLSKKQSIEMQKI 827
+
+Query: 106 AKDNCE-AAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETI 164
+            KD  E   VG  K+     E+  +  K+    S   +++   E I+ + +   +    I
+Sbjct: 828 YKDMSEKIKVGMDKKR----EEELKKQKEFFDKSNALSEKEEAEAIKKTGEFWEKQKSKI 883
+
+Query: 165 DMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISEL 224
+           D  +K  ++  + +     K+ E+  +   ++   +K        +  LS N   E   +
+Sbjct: 884 DEGQKRIEMIYQKAAEEHRKITEDEFKAISSIQHGMKEDA-----VKTLSDN-EVEAKVI 937
+
+Query: 225 INKLQ--NEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQET 277
+           + +++  +E   AE  +  +K L  S +  +K   +  EE  +   + ++   ET
+Sbjct: 938 LERMKGNDERITAEQASQHIKELNKSRDEAIK---AANEECDKRIAEIIRMRDET 989
+
+
+>15451_blastp/all_proteins.fasta 
+          Length = 1396
+
+ Score = 37.7 bits (86), Expect = 0.005
+ Identities = 46/178 (25%), Positives = 73/178 (41%), Gaps = 27/178 (15%)
+
+Query: 67  TALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIED 126
+           +A+ + KA  A+ +  E+ AK ++L       A D+        EA +  T       + 
+Sbjct: 45  SAIESSKASAAAAKQSEINAKQSEL------NAKDSEN------EAEISATSSQ----QS 88
+
+Query: 127 ATRSAKQA-AQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKM 185
+           AT+SA  A A  +   A + S+     S++A   S+        T   S  +S S+    
+Sbjct: 89  ATQSASSATASANSAKAAKTSETNANNSKNAAKTSE--------TNAASSASSASSFATA 140
+
+Query: 186 QENGARIRENVDTNVKNSTKAIAEMNQLSQNS--SAEISELINKLQNEICKAEAMNAQ 241
+            EN AR  +  +TN  NS +A       + NS  +A+ SE   K      K    NA+
+Sbjct: 141 AENSARAAKTSETNAGNSAQAADASKTAAANSATAAKTSETNAKKSETAAKTSETNAK 198
+
+
+>14823_blastp/all_proteins.fasta 
+          Length = 1396
+
+ Score = 37.7 bits (86), Expect = 0.005
+ Identities = 46/178 (25%), Positives = 73/178 (41%), Gaps = 27/178 (15%)
+
+Query: 67  TALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIED 126
+           +A+ + KA  A+ +  E+ AK ++L       A D+        EA +  T       + 
+Sbjct: 45  SAIESSKASAAAAKQSEINAKQSEL------NAKDSEN------EAEISATSSQ----QS 88
+
+Query: 127 ATRSAKQA-AQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKM 185
+           AT+SA  A A  +   A + S+     S++A   S+        T   S  +S S+    
+Sbjct: 89  ATQSASSATASANSAKAAKTSETNANNSKNAAKTSE--------TNAASSASSASSFATA 140
+
+Query: 186 QENGARIRENVDTNVKNSTKAIAEMNQLSQNS--SAEISELINKLQNEICKAEAMNAQ 241
+            EN AR  +  +TN  NS +A       + NS  +A+ SE   K      K    NA+
+Sbjct: 141 AENSARAAKTSETNAGNSAQAADASKTAAANSATAAKTSETNAKKSETAAKTSETNAK 198
+
+
+>14391_blastp/all_proteins.fasta 
+          Length = 1396
+
+ Score = 37.4 bits (85), Expect = 0.006
+ Identities = 44/195 (22%), Positives = 77/195 (39%), Gaps = 12/195 (6%)
+
+Query: 49  IDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKD 108
+           +D+   TA +Y     KYT + +      +        + +     A K+++  ++ ++ 
+Sbjct: 14  MDQNSITASKYP----KYTVVLSNSISSITAADVTSAIESSKASGPAAKQSEINAKQSEL 69
+
+Query: 109 NCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK 168
+           N   A     EA +    + +SA Q+A  +  TA   S +  + S    + S       +
+Sbjct: 70  N---AKDSENEAEISATSSQQSATQSASSA--TASANSAKAAKTSETNANNSKNAAKTSE 124
+
+Query: 169 KTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNS--SAEISELIN 226
+             A  S  +S S+     EN AR  +  +TN  NS +A       + NS  +A+ SE   
+Sbjct: 125 TNA-ASSASSASSFATAAENSARAAKTSETNAGNSAQAADASKTAAANSATAAKTSETNA 183
+
+Query: 227 KLQNEICKAEAMNAQ 241
+           K      K    NA+
+Sbjct: 184 KKSETAAKTSETNAK 198
+
+
+>12909_blastp/all_proteins.fasta name|NP_944282|Q6V7P1|192
+          Length = 322
+
+ Score = 36.6 bits (83), Expect = 0.010
+ Identities = 67/280 (23%), Positives = 113/280 (40%), Gaps = 30/280 (10%)
+
+Query: 81  SEEMLAKYTDLFEKAVKRADDTSRWA-------KDNCEAAVGQTKEAMLRIEDATRSAKQ 133
+           S+E LA  TD  E+A  + DD S  A       KD+ +A  G+  ++    +DA + ++ 
+Sbjct: 8   SDEDLAGLTDE-ERAALQEDDGSGDATTLGDSLKDDPDAGGGEGAKSGTT-DDANKGSED 65
+
+Query: 134 AAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTAD--VSVRASESALLKMQENGAR 191
+             +     A   +D+      DA  + D+T    K T    +   A   A  K++E G +
+Sbjct: 66  GKKSDDDAAAGKTDDAA-GDDDAGKKGDDTPAAAKPTIVPLLVAEAPADADAKLKEIGEK 124
+
+Query: 192 IRENVDTNVKNSTKAIAEMNQLSQNSSAE--ISELINKLQ--NEICKAEAMNAQMKHLVD 247
+               ++        A    +QL   + AE  I   ++K Q  +E+ + + MNA +  + D
+Sbjct: 125 KSTLIEQFDNGDITAKEYQSQLDDLNKAERAIERAVDKAQTASEMRQQQEMNAWLGQVND 184
+
+Query: 248 -SSNAHLKETVSRVEEVQQNTVQAVKQIQETSHXXXXXXXXXXXXXXXXXXXXXQEVSQT 306
+            +S AH + + SRV     +T   VK+I                          ++  + 
+Sbjct: 185 FTSKAHPEYSTSRVRWTALDTF--VKEIAAKPENANIDGAEIL-----------RQAHEM 231
+
+Query: 307 WVGVFKELISSVDTSKQIIAAVTKQTAEKLEAAASEPPVT 346
+            V    E     DT K+   +   +TA+ L+ A  EPP T
+Sbjct: 232 VVADLGEATPKADTGKKDDGSKDGKTAKPLKGAKIEPPPT 271
+
+
+>24417_blastp/all_proteins.fasta name|YP_874183|A1EAB2|378
+          Length = 1161
+
+ Score = 36.2 bits (82), Expect = 0.013
+ Identities = 34/206 (16%), Positives = 80/206 (38%), Gaps = 8/206 (3%)
+
+Query: 64  DKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLR 123
+           D+      Q  +    +++E   +  D+F K  +  +  +  AK +  +A+ +  +    
+Sbjct: 400 DRIAEEIAQVNQSMQAQAQEHDRQVADIFSKT-QSVESLANQAKSDAASALARANQVKTE 458
+
+Query: 124 IEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALL 183
+                R+        + TAK      I ++      S  +   L+   D++++AS+    
+Sbjct: 459 AIADARAQVATVSQVLNTAKSELQSAIASADQKARDSQASATALRN--DLNLQASKILEQ 516
+
+Query: 184 KMQENGARIR-ENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQM 242
+              +     R   V+T    +   +AE+ +    ++ +I  + N+ ++         AQ 
+Sbjct: 517 ARAQTALTNRVSTVETLADGTRSTVAELYKTLNKATGDIDSVTNRTKSVEDNLSQTRAQY 576
+
+Query: 243 KHLVDSSNAHLKETVSRVEEVQQNTV 268
+           +HL  + NA       +++ + + TV
+Sbjct: 577 EHLTQTVNAQ----TGQIDSINRKTV 598
+
+
+>4990_blastp/all_proteins.fasta name|NP_817331|Q859I9|94
+          Length = 481
+
+ Score = 35.8 bits (81), Expect = 0.018
+ Identities = 46/226 (20%), Positives = 95/226 (42%), Gaps = 42/226 (18%)
+
+Query: 44  DSQTAIDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEK------AVK 97
+           D +T IDK       Y   ++ +        E+ S   E+ + K+  + +       ++K
+Sbjct: 52  DLKTLIDK-------YSGQIENHDIAINNNKEKISTFLEK-IKKFQPMIDSNKNEIDSLK 103
+
+Query: 98  RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAV 157
+             D     + +  +  + + +++ML+ +D   + KQ+               + A++D+V
+Sbjct: 104 EKDVILNESLEQHQTQLNEFEKSMLQYDDKYETLKQS---------------LNATKDSV 148
+
+Query: 158 SQSDETIDMLKKTA---DVSVRASESALLKMQENGARIRENVD---------TNVKNSTK 205
+            ++ + I+++K      ++     E A +K   N  +IRE            TN K   +
+Sbjct: 149 GRNTDDINLIKSNTGVENIEALKRELAEVKKSVNLDKIREIEQQIESLNAKPTNEKTIQE 208
+
+Query: 206 AIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNA 251
+              ++NQL QN+SA   E + +  N+I K  A   +++ L    N+
+Sbjct: 209 MQQDINQLKQNTSAGKLEALEQSINDI-KTNANLDKIRELESKINS 253
+
+
+>25340_blastp/all_proteins.fasta 
+          Length = 401
+
+ Score = 35.4 bits (80), Expect = 0.023
+ Identities = 45/176 (25%), Positives = 72/176 (40%), Gaps = 19/176 (10%)
+
+Query: 45  SQTAIDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSR 104
+           + TA  KA   A   +D++          ++EA++ SE   +        +   A++++R
+Sbjct: 222 ASTAATKASEAATSARDAV---------ASKEAAKSSETNASSSAGRAASSATAAENSAR 272
+
+Query: 105 WAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETI 164
+            AK + E     ++ A  R   A   AK AA  S  TA   + E   A+  AVS S    
+Sbjct: 273 AAKTS-ETNARSSETAAERSASAAADAKTAAAGSASTASTKATE---AAGSAVSASQS-- 326
+
+Query: 165 DMLKKTADVS-VRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSA 219
+              K  A+ + +RA  SA        A   E+ DT  K   +  +  N  S+  +A
+Sbjct: 327 ---KSAAEAAAIRAKNSAKRAEDIASAVALEDADTTRKGIVQLSSATNSTSETLAA 379
+
+
+>6435_blastp/all_proteins.fasta name|NP_945243|Q708S0|120
+          Length = 513
+
+ Score = 35.0 bits (79), Expect = 0.030
+ Identities = 35/166 (21%), Positives = 72/166 (43%), Gaps = 17/166 (10%)
+
+Query: 111 EAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKT 170
+           E  +   KEA    +     A   A+  ++ AKE +D       D +SQ+++ ID+ +  
+Sbjct: 58  EVILDSKKEA----DSILTKANNEAEIILKLAKEKAD-------DIISQANKEIDLFE-- 104
+
+Query: 171 ADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQN 230
+              ++  ++  L++ Q     I EN     +   +   +     + S  E+S  + KL+ 
+Sbjct: 105 ---NIDKADDILIEAQNQAEEILENAKQEAEEIKENALQEKYSLKASLKELSRKVEKLKQ 161
+
+Query: 231 EICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQE 276
+           E    EA+  +  ++V +    +  T +      +NT+ ++ QI+E
+Sbjct: 162 EEKDYEAILKEKSNIVIAQETTVDFTDNITSNELKNTL-SILQIKE 206
+
+
+>6844_blastp/all_proteins.fasta name|YP_195273|Q2Z127|123
+          Length = 505
+
+ Score = 34.7 bits (78), Expect = 0.039
+ Identities = 46/183 (25%), Positives = 75/183 (40%), Gaps = 23/183 (12%)
+
+Query: 106 AKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETID 165
+           A  N E  +G+   A  RI   T          +RT  E  +E I A R      ++ I 
+Sbjct: 157 ANYNLEKFIGEFPNATDRIGQLT---------ILRTKFETDEESIEALRKVFPLFEQIIG 207
+
+Query: 166 MLKKTADVSVRASES--ALLKMQENGAR----IRENVD----TNVKNSTKAIAEMNQLSQ 215
+            L + +D ++RASE+    ++ + N  R    +RE VD      V    KA+ E   L+ 
+Sbjct: 208 KLTEASDKAIRASENLKRTIRNEYNATRGRAHLREYVDGANSPEVNRVQKAVLE--TLTF 265
+
+Query: 216 NSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETV--SRVEEVQQNTVQAVKQ 273
+                + E I +L   + K +  N  +     +    LKE +   RV+  + NT   +  
+Sbjct: 266 VKPDGLVEQIGQLLETLYKVKFENEALNEGFHTVRETLKENIQAQRVKLTRVNTPVIMDL 325
+
+Query: 274 IQE 276
+           +Q+
+Sbjct: 326 VQQ 328
+
+
+>15956_blastp/all_proteins.fasta 
+          Length = 166
+
+ Score = 34.3 bits (77), Expect = 0.051
+ Identities = 28/125 (22%), Positives = 60/125 (48%), Gaps = 3/125 (2%)
+
+Query: 141 TAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNV 200
+           + +E+ +E   A+  A+  + ET ++  +TA +    + +A  +  E  A + E +  +V
+Sbjct: 2   STEEIKEEMQEAAEAAIESAVETAEL--ETAAIKAEGAAAAAEQSAEQAAVMAETLAASV 59
+
+Query: 201 K-NSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSR 259
+           + N+ + IAE ++  Q    +IS L N++       +AM   +  L  S +   + + + 
+Sbjct: 60  EANAAQQIAEHSEQVQTQEEKISWLENQVMMMASNLQAMQEALTVLTVSQSLTPEPSPAP 119
+
+Query: 260 VEEVQ 264
+             EV+
+Sbjct: 120 AVEVE 124
+
+
+>21275_blastp/all_proteins.fasta name|YP_529896|Q1WDF5|342
+          Length = 1161
+
+ Score = 33.9 bits (76), Expect = 0.067
+ Identities = 40/179 (22%), Positives = 74/179 (41%), Gaps = 32/179 (17%)
+
+Query: 106 AKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETID 165
+           A     AA G  ++A          A++A QD+++ A + +++  R  +DA        D
+Sbjct: 270 ATGGAAAAAGAAQQAA--------KAQRAVQDAMQQAADANEQAARRVQDA---QRAVGD 318
+
+Query: 166 MLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELI 225
+             K  AD  V+A+ S         A+   N+    K S  A   +    + +S ++ +L 
+Sbjct: 319 ATKAAADAQVQAARSV--------AQAERNLADAQKASLAAQQALTDARKQASQDLEDLN 370
+
+Query: 226 NKL--------QNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQE 276
+           N+L        +N +   EA     K L D + +  ++     +  Q    QAV++++E
+Sbjct: 371 NRLTDAGLDQRENTLRVQEAQETLAKTLADPTASERQK-----QAAQLAYEQAVQRLRE 424
+
+
+>24174_blastp/all_proteins.fasta name|YP_874091|A0MN95|374
+          Length = 1744
+
+ Score = 33.5 bits (75), Expect = 0.087
+ Identities = 32/154 (20%), Positives = 77/154 (50%), Gaps = 11/154 (7%)
+
+Query: 43   RDSQTAIDKADTTAKQY--QDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRAD 100
+            ++ + A+D+A  T  +   Q+ +   +     KA +  ++S++   K   + EK    ++
+Sbjct: 1031 KEFKKAVDEAFETISEATSQEKLLNSSIEQLNKAIKEKKKSKKKAKK--KIKEKEETPSE 1088
+
+Query: 101  DTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQS 160
+            +T   A++  E A  QT+E    + +AT S ++A++++ +T    S +  ++ +   + S
+Sbjct: 1089 ETR--AEEAVETA-SQTEE----VPEATPSVEEASEEARKTETRASSKKAKSDKTKKTSS 1141
+
+Query: 161  DETIDMLKKTADVSVRASESALLKMQENGARIRE 194
+            D+  +  K+ A  ++    S ++ ++EN   + E
+Sbjct: 1142 DKQREKAKEFAKENLEQQASEVVLVEENKEAVEE 1175
+
+
+>5434_blastp/all_proteins.fasta 
+          Length = 1794
+
+ Score = 33.5 bits (75), Expect = 0.087
+ Identities = 28/109 (25%), Positives = 52/109 (47%), Gaps = 5/109 (4%)
+
+Query: 150  IRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAE 209
+            +  ++ AV  +++ +D +   A  ++      L K+    A   ++ D N   + KAI E
+Sbjct: 1683 LAGAKGAVQSTNKMVDKVVNAAS-NMTVPTITLPKVSAEKALGLKSSDLNRTITVKAIVE 1741
+
+Query: 210  MNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+             N+   NS+   S+LIN ++    +   +N   K + DS+N HL  + S
+Sbjct: 1742 -NESKNNSN---SDLINAIEKSGGRPIILNVDGKVIADSTNNHLGNSTS 1786
+
+
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 27/136 (19%), Positives = 54/136 (39%), Gaps = 11/136 (8%)
+
+Query: 106 AKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDEC------IRASRDAVSQ 159
+           AK + E +     +A   I+DA      A   +I + KEM  E          S   +S 
+Sbjct: 817 AKKSLEQSKDAFVDAGSAIKDAFNKDNYALTGTIESLKEMGGEAEKTGTKAETSNKKISS 876
+
+Query: 160 SDETIDMLKKTADVSVRASESALLKM-----QENGARIRENVDTNVKNSTKAIAEMNQLS 214
+           S + ++   K  + +V  S  A+  M      + G ++ E   + +  + +   +  + +
+Sbjct: 877 SLKLVESTAKQTEATVTKSNQAIDTMLSGGVDQYGNKLSEKTKSFLNAAKELYGQYQESA 936
+
+Query: 215 QNSSAEISELINKLQN 230
+           + S  + S  + K Q+
+Sbjct: 937 KKSQDKYSVAMEKAQS 952
+
+
+>8575_blastp/all_proteins.fasta name|YP_398480|Q332H7|145
+          Length = 210
+
+ Score = 33.1 bits (74), Expect = 0.11
+ Identities = 29/116 (25%), Positives = 53/116 (45%), Gaps = 7/116 (6%)
+
+Query: 157 VSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQN 216
+           +  S E I  +K T    V+ +E  L+K+ E  A   +     V    + I E+N+L   
+Sbjct: 95  ILDSPEGIKNVKGTIVDEVKGTEQFLIKLSELNALYVDKDKVQVVKKKQNIEEINKLKD- 153
+
+Query: 217 SSAEISELINKLQNEICKAEAMNAQMKHLVDSS---NAHLKETVSRVEEVQQNTVQ 269
+              +I +L +     I + + +  Q+K L D+       LK+T +++E+ +Q   Q
+Sbjct: 154 ---KIQKLKDCKDILIDEIQCVTKQIKDLEDNKINIQQELKQTTTKLEQYKQQLEQ 206
+
+
+>980_blastp/all_proteins.fasta 
+          Length = 2285
+
+ Score = 33.1 bits (74), Expect = 0.11
+ Identities = 48/241 (19%), Positives = 94/241 (39%), Gaps = 25/241 (10%)
+
+Query: 49   IDKADTTAKQY-----QDSMDKYTALYTQKAEEASRRSEEM-----LAKYTDLFE-KAVK 97
+            ++KA    K+Y     Q++ D     +   ++E  +  +E+     +A Y D    K   
+Sbjct: 854  LEKAIENTKEYLALKKQETRDSAKKTFEDASKEIKKSKDELKQYKQIADYNDKGRPKWDL 913
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAV 157
+             ADD      D+ + A  + K++ML+ +    S     +DS+ +    +   I  S    
+Sbjct: 914  IADD------DDYKVAADKAKQSMLKAQSDIESGNAKVKDSVLSIAN-AYSSIDISNTLK 966
+
+Query: 158  SQSDETIDMLKKTADVSVRASE---SALLKMQENGARIRENVD----TNVKNSTKAIAEM 210
+            +   + ++ L    D+     E   S+L K+QE   +  ++ D     N K   +++ E 
+Sbjct: 967  TSISDVVNKLNLKDDLDPEELEKFSSSLGKLQEKMQKALDSGDEKAFDNAKKDLQSLLET 1026
+
+Query: 211  NQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQA 270
+               S +S        +K Q  I   +   + +K  V      L E  +  E+  +   +A
+Sbjct: 1027 YSKSDSSIDVFKMSFDKAQKNIKDGDKSLSSVKSEVGDLGETLAEAGNEAEDFGKKLKEA 1086
+
+Query: 271  V 271
+            +
+Sbjct: 1087 L 1087
+
+
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 19/76 (25%), Positives = 36/76 (47%), Gaps = 6/76 (7%)
+
+Query: 160 SDETIDMLKKTADVSVRASESALLKMQENGARIRENV-----DTNVKNSTKAIAEMNQLS 214
+           S++  D+L+ T D      + + L      A++ +NV     D  V   T A+   N ++
+Sbjct: 399 SNKITDILQMTGDFGRMGFDESELSTLTKTAQVLQNVSDLTPDDTVNTLTAAMLNFN-IA 457
+
+Query: 215 QNSSAEISELINKLQN 230
+            N S  I++ +N++ N
+Sbjct: 458 ANDSISIADKLNEVDN 473
+
+
+>686_blastp/all_proteins.fasta 
+          Length = 673
+
+ Score = 33.1 bits (74), Expect = 0.11
+ Identities = 23/90 (25%), Positives = 44/90 (48%), Gaps = 5/90 (5%)
+
+Query: 45  SQTAIDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSR 104
+           + T + +A  +A+    S  +  A  T +AEE  +++EE  A  T+    A     + +R
+Sbjct: 130 NNTGLTQARESAEASARSASESAATATARAEETEQKAEEAKASATNAAASA-----EEAR 184
+
+Query: 105 WAKDNCEAAVGQTKEAMLRIEDATRSAKQA 134
+              +N ++A    ++ + R E A  SA++A
+Sbjct: 185 QHAENAQSAQATAEDVLERAEAAVVSAEEA 214
+
+
+>10241_blastp/all_proteins.fasta 
+          Length = 1599
+
+ Score = 32.3 bits (72), Expect = 0.19
+ Identities = 38/160 (23%), Positives = 73/160 (45%), Gaps = 13/160 (8%)
+
+Query: 76  EASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAA 135
+           +A +   E L +Y  L ++  K++D   +  ++    A  + K+  LR+E   + AK   
+Sbjct: 115 KAQKARNEALEEYNRLVDRRNKKSD-AHKQTREEIRLADHRIKQ--LRLEGKYKEAKALD 171
+
+Query: 136 QDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIREN 195
+           ++   T K+     I   RD V   D+ +   K   D   R  + A    +EN  R++++
+Sbjct: 172 KEIHPTRKKS----ILEERD-VRALDKQVAAGKADLDKKTRILKDA----EENLKRVQKD 222
+
+Query: 196 VDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKA 235
+            D  VK+ TK+  E  + +  ++  + +L  K   ++ KA
+Sbjct: 223 RDDIVKSLTKSEEEHRKANDAATKSLEDL-RKANEDVEKA 261
+
+
+>24239_blastp/all_proteins.fasta name|YP_874156|A0MNG0|374
+          Length = 1014
+
+ Score = 32.0 bits (71), Expect = 0.25
+ Identities = 34/176 (19%), Positives = 76/176 (43%), Gaps = 24/176 (13%)
+
+Query: 59  YQDSMDKY--TALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQ 116
+           Y+ +++K+  T  Y + + +  R   + L+ Y DL +   +RA    R            
+Sbjct: 165 YKRAIEKFPITGYYLEASGDLDR---DFLSNYFDLRQTGAQRAFSEFR------------ 209
+
+Query: 117 TKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVR 176
+              ++  +  +TR+    ++   ++ +E+     R   +  ++S   I + +      + 
+Sbjct: 210 ---SLFELAKSTRNQLSISERIFKSEREIF--LSRTLSEFYNESLNAISIARSNFIAQLN 264
+
+Query: 177 ASESALLKMQ--ENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQN 230
+               +L K Q  E  AR++E     +K+ T+  AE  ++   ++ E+ EL+N  +N
+Sbjct: 265 RVNESLQKAQSPEEVARLQEERFNYLKSLTQLYAEELKIRNEANKELRELLNSFKN 320
+
+
+>21491_blastp/all_proteins.fasta 
+          Length = 1337
+
+ Score = 32.0 bits (71), Expect = 0.25
+ Identities = 28/97 (28%), Positives = 46/97 (47%), Gaps = 6/97 (6%)
+
+Query: 59   YQDSMDKYTALYTQK---AEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVG 115
+            Y+ + DK  A   +K   A EA R++E+ +   T   +KA +R D+     KD  +A   
+Sbjct: 1091 YRAATDKELAASAKKLDSASEAVRQAEQSVDDRTYARDKAQRRLDELRAKGKDTADAEHS 1150
+
+Query: 116  QTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRA 152
+              K A   ++DA R   +A   +  T  E +D  +R+
+Sbjct: 1151 LAK-ANRELDDANRRLAKARDKA--TEVEQADSELRS 1184
+
+
+>15574_blastp/all_proteins.fasta 
+          Length = 310
+
+ Score = 32.0 bits (71), Expect = 0.25
+ Identities = 25/111 (22%), Positives = 49/111 (44%), Gaps = 14/111 (12%)
+
+Query: 166 MLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELI 225
+           ++K +  + +    S+L+           N+   ++ +T   A  +Q+S N+   +  ++
+Sbjct: 171 LIKNSQLLDINKGYSSLMSTMSGQLYSIRNLSDYIEKNTSQTAAYSQMSANT---LGNIL 227
+
+Query: 226 NKLQN--------EICKAEAMNAQMKHLVDSSN---AHLKETVSRVEEVQQ 265
+           NKL +        E       NA   H + +S    AHL  TVSR++ V++
+Sbjct: 228 NKLSDSGSGGGDSETYLKNISNAISNHFIGNSYSALAHLDNTVSRLDSVKR 278
+
+
+>13742_blastp/all_proteins.fasta name|NP_938262|Q6EDX5|242
+          Length = 166
+
+ Score = 32.0 bits (71), Expect = 0.25
+ Identities = 27/125 (21%), Positives = 59/125 (47%), Gaps = 3/125 (2%)
+
+Query: 141 TAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNV 200
+           + +E+ +E   A+  A+  + ET ++  +TA +    + +A  +  E  A +   +  +V
+Sbjct: 2   STEEIKEEMQEAAEAAIESAVETAEL--ETAAIKAEGAAAAAEQSAEQAAVMAATLAASV 59
+
+Query: 201 K-NSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSR 259
+           + N+ + IAE ++  Q    +IS L N++       +AM   +  L  S +   + + + 
+Sbjct: 60  EANAAQQIAEHSEQVQTQEEKISWLENQVMMMASNLQAMQEALTVLTVSQSLTPEPSPAP 119
+
+Query: 260 VEEVQ 264
+             EV+
+Sbjct: 120 AVEVE 124
+
+
+>16112_blastp/all_proteins.fasta 
+          Length = 265
+
+ Score = 31.6 bits (70), Expect = 0.33
+ Identities = 33/166 (19%), Positives = 72/166 (43%), Gaps = 18/166 (10%)
+
+Query: 71  TQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRW-------AKDNCEAAVGQTKEAMLR 123
+           T + +++ +  E+M+ +  +L     K A+D  +          D  +A   + +E    
+Sbjct: 17  TSEEQDSLQVGEKMVEQQGELLAGKYKNAEDLEKAYVELQKKLGDKEDAVSQEGREETEE 76
+
+Query: 124 IEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALL 183
+           ++D +    +A +    T  E ++E   A+ + +S      + L+K + +S +    A +
+Sbjct: 77  VKDESEEEPKAEKSEAVTLLESANEEYFANGNKLSP-----ETLEKFSAMSSQDLVQAYM 131
+
+Query: 184 KMQENGARIRENVDTN------VKNSTKAIAEMNQLSQNSSAEISE 223
+           +MQ+N    +  VD N      ++NS    +E  +L Q +   + E
+Sbjct: 132 EMQKNAPPAQTEVDVNTAEINKIQNSVGGESEYQKLVQWAGENLKE 177
+
+
+>3086_blastp/all_proteins.fasta 
+          Length = 420
+
+ Score = 31.6 bits (70), Expect = 0.33
+ Identities = 30/129 (23%), Positives = 53/129 (41%), Gaps = 15/129 (11%)
+
+Query: 57  KQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQ 116
+           +Q QD++D  T    Q+A+ A R S E+  K  ++      R    S            Q
+Sbjct: 105 RQQQDAIDDATHDANQRADNAERISIELETKLNEMTAMVELRNSQIS--------TLKSQ 156
+
+Query: 117 TKEAM----LRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTAD 172
+            KE M      +E     AK   Q+  +   +++ +  +  +DA   S+  +    K A+
+Sbjct: 157 YKEIMKLDPFNLEKRYNKAKSERQELRKQVADLNQQLKKTIKDA---SEARVAFANKKAE 213
+
+Query: 173 VSVRASESA 181
+           V+   +E+A
+Sbjct: 214 VTALVNENA 222
+
+
+>2976_blastp/all_proteins.fasta 
+          Length = 420
+
+ Score = 31.6 bits (70), Expect = 0.33
+ Identities = 30/129 (23%), Positives = 53/129 (41%), Gaps = 15/129 (11%)
+
+Query: 57  KQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQ 116
+           +Q QD++D  T    Q+A+ A R S E+  K  ++      R    S            Q
+Sbjct: 105 RQQQDAIDDATHDANQRADNAERISIELETKLNEMTAMVELRNSQIS--------TLKSQ 156
+
+Query: 117 TKEAM----LRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTAD 172
+            KE M      +E     AK   Q+  +   +++ +  +  +DA   S+  +    K A+
+Sbjct: 157 YKEIMKLDPFNLEKRYNKAKSERQELRKQVADLNQQLKKTIKDA---SEARVAFANKKAE 213
+
+Query: 173 VSVRASESA 181
+           V+   +E+A
+Sbjct: 214 VTALVNENA 222
+
+
+>21074_blastp/all_proteins.fasta name|YP_460017|Q2LIB9|339
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>21021_blastp/all_proteins.fasta name|YP_459978|Q2LIH2|338
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>20867_blastp/all_proteins.fasta name|YP_338236|Q3HL06|335
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>20814_blastp/all_proteins.fasta name|YP_338197|Q3HL06|335
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>20763_blastp/all_proteins.fasta name|YP_338146|Q3HL62|333
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>20631_blastp/all_proteins.fasta name|YP_717900|Q2I8F0|331
+          Length = 1283
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 57/272 (20%), Positives = 100/272 (36%), Gaps = 52/272 (19%)
+
+Query: 45   SQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKY------TDLFEKAVK 97
+            + T I+K +   ++  + + K+ A  Y   AEE ++R E++   Y      T   E  +K
+Sbjct: 809  ANTIIEKTNARQQKEIEGLKKFFADSYVLTAEEENKRIEQLNQHYEQEKLKTQEKENKIK 868
+
+Query: 98   RADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK-------------------QAAQDS 138
+                T+  A++N E    +        ++  R A                    QA++ S
+Sbjct: 869  EILQTA--ARENRELTTSERISLQALQDEMDRVAVEHMSKNQMEQKVILENMRVQASEIS 926
+
+Query: 139  IRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRE---- 194
+             R A E+ +   +A    +  + +T D  +K A+   +  E+  +   E  A I E    
+Sbjct: 927  ARQAAEVVENSAKARDKVIEDAKKTRD--EKIAEAIRQRDENKTITADEANAIIAEAKRQ 984
+
+Query: 195  ---NVDT------NVKNSTKAIA---------EMNQLSQNSSAEISELINKLQNEICKAE 236
+                V T       + +  KA A         E  Q+     A   ++I K++       
+Sbjct: 985  YDSTVSTARDKHKEIVSEAKAQAGEHANQVDWETGQVKSKYQAMKDDVIRKMKEMWSDVT 1044
+
+Query: 237  AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTV 268
+                 MK+   +    +K TVSR  E Q+  V
+Sbjct: 1045 NKYEDMKNSASNKVEEIKNTVSRKFEEQKKAV 1076
+
+
+>19389_blastp/all_proteins.fasta name|YP_406405|Q30LB7|279
+          Length = 1242
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 42/202 (20%), Positives = 83/202 (41%), Gaps = 33/202 (16%)
+
+Query: 43  RDSQTAIDKADTTAKQYQDSMDKYTA-------------LYTQKAEEASRRSEEMLAKYT 89
+           RD Q   ++A+ T K +QD+    T               Y  + +E +RR +E+     
+Sbjct: 92  RDQQRLREEAEKTRKTFQDTTQNKTGSNAYLKDLLRDQKAYNDEIDEGTRRLKEL----K 147
+
+Query: 90  DLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSD-E 148
+           DL ++ V R D  SR A         +T++A       ++ A  A  D       MS  +
+Sbjct: 148 DL-QRDVARTD--SRLA--------ARTRQATSSGNMNSQQAGTARSDLANKTAYMSQLQ 196
+
+Query: 149 CIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIA 208
+             +  RD + +  E+    K+  + + R ++    + Q   + +  N++T  +   +A+ 
+Sbjct: 197 ANQQRRDELRKGLESDQAKKRNLNANFRGNDQ---ERQNELSALNHNIETR-RKEIEALK 252
+
+Query: 209 EMNQLSQNSSAEISELINKLQN 230
+           E++     + + +    N+L N
+Sbjct: 253 ELDSQINKTVSNMESYSNQLNN 274
+
+
+>18446_blastp/all_proteins.fasta name|YP_239564|Q4Z9B6|271
+          Length = 636
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 15/66 (22%), Positives = 38/66 (57%), Gaps = 1/66 (1%)
+
+Query: 212 QLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEV-QQNTVQA 270
+           ++++    E+ +  NKLQN I + E     +++ ++    + KE + R+E + ++NT + 
+Sbjct: 180 EVAKEKVKEVEDKQNKLQNSIQQLEYQIDSVQYKIEYEQNNYKEQLQRLEAIKEENTKKE 239
+
+Query: 271 VKQIQE 276
+            ++++E
+Sbjct: 240 QQKVEE 245
+
+
+>7228_blastp/all_proteins.fasta name|YP_112541|Q3V4Q8|127
+          Length = 653
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 30/141 (21%), Positives = 55/141 (39%), Gaps = 10/141 (7%)
+
+Query: 92  FEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIR 151
+           FE+ VK AD      +   E    +TK+   + E+  +  KQ +Q+ +     + DE + 
+Sbjct: 283 FEEMVKTADKYLLLGETAKEETKQETKQETGKEEEEKKETKQESQEQLFNPFAIVDEMLA 342
+
+Query: 152 ASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMN 211
+             + A ++ + +       A+   R  +      +EN A   +          K    MN
+Sbjct: 343 EGQPAEAKQENSPQQQNPPAEAKQRQQQ------EENNAEAPQQRQQEENTPLK----MN 392
+
+Query: 212 QLSQNSSAEISELINKLQNEI 232
+            L++  S +  E    L+N I
+Sbjct: 393 ILTEEESNKSEEGQQPLENNI 413
+
+
+>5795_blastp/all_proteins.fasta name|NP_543109|Q8W611|107
+          Length = 490
+
+ Score = 31.2 bits (69), Expect = 0.43
+ Identities = 24/127 (18%), Positives = 57/127 (44%), Gaps = 10/127 (7%)
+
+Query: 90  DLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDA--TRSAKQAAQDSIRTAKEMSD 147
+           DL    VKR ++    A+ + EAA    ++A     DA   +   Q   D+++      +
+Sbjct: 97  DLKPDVVKRFEEMVAQAQQSAEAAAESERQAGQHAADAQKIKGDCQTLADNVQQNTNAVE 156
+
+Query: 148 ECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAI 207
+           E  +      SQ ++T + +++ A+ + +A+  A         + R+++D  +  + K  
+Sbjct: 157 ENTQRVEQLASQVEDTAEEVRQDAEAAKQAASDA--------EQARDDIDVALSATLKTA 208
+
+Query: 208 AEMNQLS 214
+             +++++
+Sbjct: 209 NHLSEIA 215
+
+
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 17/74 (22%), Positives = 35/74 (47%), Gaps = 6/74 (8%)
+
+Query: 71  TQKAEEASRRSEEMLAKYTDLFEK------AVKRADDTSRWAKDNCEAAVGQTKEAMLRI 124
+           T   EE ++R E++ ++  D  E+      A K+A   +  A+D+ + A+  T +    +
+Sbjct: 152 TNAVEENTQRVEQLASQVEDTAEEVRQDAEAAKQAASDAEQARDDIDVALSATLKTANHL 211
+
+Query: 125 EDATRSAKQAAQDS 138
+            +     + A Q+S
+Sbjct: 212 SEIAAEGEDAQQES 225
+
+
+>24370_blastp/all_proteins.fasta name|YP_874183|A2I2Y1|376
+          Length = 881
+
+ Score = 30.8 bits (68), Expect = 0.57
+ Identities = 46/197 (23%), Positives = 81/197 (41%), Gaps = 24/197 (12%)
+
+Query: 67  TALYTQKAEEAS-----RRSEEMLAKYTDLFEKAVKRA-----------DDTSRWAKDNC 110
+           TAL   K +EA        +E+   + T+ FEKA  +            +   R  +   
+Sbjct: 66  TALEQAKLDEAELARQMEATEQPTKRLTNAFEKAKTKTAQLTIEHQVQTNKLERLEQSLS 125
+
+Query: 111 EAAVGQTKEA--MLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK 168
+           EA V   K A    RIE AT  A  A +      K +SD   R   +  +++D    +L+
+Sbjct: 126 EAGVDARKFASEQERIERATEQANAALKTQQTRLKSVSDAQSRVEANRAARADLRGQVLE 185
+
+Query: 169 KTADVSVRASE-SALLKMQENGARIRENV----DTNVKNSTKAIAEMNQLSQNSSAEISE 223
+             A   V A    A +  +   A +++ V    DT      + I +M+     ++  I++
+Sbjct: 186 TAAMGYVAAQPIRAAINYESAMADVKKVVNFKDDTEANQMGRDILKMSTQIPMAAEGIAQ 245
+
+Query: 224 LINKL-QNEICKAEAMN 239
+           +++   Q+ + KAE ++
+Sbjct: 246 IVSAAGQSGVAKAELLD 262
+
+
+>16756_blastp/all_proteins.fasta name|YP_214758|Q4ZE56|250
+          Length = 225
+
+ Score = 30.4 bits (67), Expect = 0.74
+ Identities = 25/84 (29%), Positives = 44/84 (52%), Gaps = 12/84 (14%)
+
+Query: 148 ECIRASRDAVSQSDETIDMLKKTA---DVSVRASESALLKMQENGARIRE---NVDTNVK 201
+           + + A++D+V ++   I+++K      ++     E A +K   N  +I+E   N+++   
+Sbjct: 139 QSLNATKDSVGRNTNEINLIKANTGAENIEALKRELAEVKKSVNLDKIKEIEQNIESLKT 198
+
+Query: 202 NST--KAIAEM----NQLSQNSSA 219
+           N T  K I EM    NQL QN+SA
+Sbjct: 199 NPTNDKTIQEMQQDINQLKQNTSA 222
+
+
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 19/121 (15%), Positives = 54/121 (44%), Gaps = 8/121 (6%)
+
+Query: 155 DAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLS 214
+           D++ + D  ++   +     +   E ++LK  +  A + ++++    +  +   E+N + 
+Sbjct: 100 DSLKEKDVILNESLEQHQTQLNEFEKSILKYDDKYATLTQSLNATKDSVGRNTNEINLIK 159
+
+Query: 215 QNSSAEISELINKLQNEICKAEAM--------NAQMKHLVDSSNAHLKETVSRVEEVQQN 266
+            N+ AE  E + +   E+ K+  +        N +      +++  ++E    + +++QN
+Sbjct: 160 ANTGAENIEALKRELAEVKKSVNLDKIKEIEQNIESLKTNPTNDKTIQEMQQDINQLKQN 219
+
+Query: 267 T 267
+           T
+Sbjct: 220 T 220
+
+
+>13878_blastp/all_proteins.fasta name|NP_958538|Q6SED3|207
+          Length = 188
+
+ Score = 30.4 bits (67), Expect = 0.74
+ Identities = 28/118 (23%), Positives = 57/118 (48%), Gaps = 13/118 (11%)
+
+Query: 116 QTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSV 175
+           Q  +   + EDA +  +Q    S ++AKE+++E  R        + E   + K+ AD++ 
+Sbjct: 51  QKNDYKAKYEDAMKEIEQLRGKSSKSAKEITEEDER--------TKEIESLKKQNADLNA 102
+
+Query: 176 RASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQ--LSQNSSAEISELINKLQNE 231
+           +   S  +K + NG  I +  D N+ +    +   N   ++ +++  I +L+NK + E
+Sbjct: 103 QIKRSNDIK-EVNG--IFKKADLNIGDDVLNMVVNNDATVTVSNAKAIIDLVNKAREE 157
+
+
+>2425_blastp/all_proteins.fasta 
+          Length = 354
+
+ Score = 30.4 bits (67), Expect = 0.74
+ Identities = 31/115 (26%), Positives = 56/115 (48%), Gaps = 15/115 (13%)
+
+Query: 166 MLKKTADVSVRASESAL-LKMQENG-----ARIRENVDTNVKNST-----KAIAEMNQLS 214
+           M  +T  V V A E+AL +    NG     A+IRE +D  V + T     +A+A +    
+Sbjct: 1   MFAETQLVEVPAKETALQVYSAANGLDPFLAKIREEIDGFVPDVTTRKGREAVASIAYKV 60
+
+Query: 215 QNSSAEIS----ELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQ 265
+             S   +     EL+ +L+    K +A   +M+ L+DS  A +++ ++  E+ ++
+Sbjct: 61  ARSKTALDNLGKELVAELKEVPKKVDAERKRMRDLLDSWQAEVRQPLTDWEQREE 115
+
+
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 43/186 (23%), Positives = 70/186 (37%), Gaps = 21/186 (11%)
+
+Query: 51  KADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKY---TDLFEKAVKRADDTSRWAK 107
+           K D   K+ +D +D + A   Q   +  +R E   AK+    D  +  ++  D  S   K
+Sbjct: 84  KVDAERKRMRDLLDSWQAEVRQPLTDWEQREEMRKAKHQAGIDQIKMRLECRDLDSTELK 143
+
+Query: 108 DNCE----AAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSD------ECIRASRDAV 157
+            N E      +G+  E        T+    AA      A+E  +      E +RA   A 
+Sbjct: 144 ANIEWLEGLLIGEDWEEFETEAARTKGKALAALREALVAREKYEAEQAELERLRAEAAAR 203
+
+Query: 158 SQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNS 217
+            Q +    + ++ A+    A+E      +E  A  R   +       KA AE  +L    
+Sbjct: 204 EQKEREERIAREAAEAERLAAERR--AQEERDATARREAE------AKAAAERRELELRL 255
+
+Query: 218 SAEISE 223
+           +AE +E
+Sbjct: 256 AAEKAE 261
+
+
+>11429_blastp/all_proteins.fasta 
+          Length = 772
+
+ Score = 30.0 bits (66), Expect = 0.96
+ Identities = 40/219 (18%), Positives = 88/219 (40%), Gaps = 40/219 (18%)
+
+Query: 46  QTAIDKADTTAKQYQDSMDKY-------TALYTQKAEEASRRSEEMLAKYTDL---FEKA 95
+           +  +D+ +   ++Y+   + Y       +  +  +     R  EEM   +      +++ 
+Sbjct: 435 RATVDENERKRREYEKQTNDYAYQCRMISEHHEAEIRRIDREIEEMRLNHATQVIEYDRN 494
+
+Query: 96  VKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRD 155
+           ++  +D  RWA D+ +    + ++ + ++ED     K     S R AK   D        
+Sbjct: 495 MRTLEDEKRWAIDSFKDNKAELEDRLSQLEDEVERLK-----SERVAKHNLD-------- 541
+
+Query: 156 AVSQSDETIDMLKKTADVSVRASESALLKMQENGARIRENVD----TNVKNS--TKAIAE 209
+            V+Q    ++ LK +      + E+      +N   +++ +D    T    S    AI  
+Sbjct: 542 -VAQYKANVEALKASIATGTESYETT----ADNARNLKKQIDDLKATEYDRSQVDAAIQR 596
+
+Query: 210 MNQLSQNSSAEISELINKLQNEICKAEAM--NAQMKHLV 246
+            N+L +    EI++++ +L +    A+ +  N    H+V
+Sbjct: 597 ANELKE----EIAKIVLELHHRSIVADMLKDNGVKAHIV 631
+
+
+>3922_blastp/all_proteins.fasta name|NP_570353|Q8W6Y8|76
+          Length = 94
+
+ Score = 30.0 bits (66), Expect = 0.96
+ Identities = 16/39 (41%), Positives = 20/39 (51%), Gaps = 1/39 (2%)
+
+Query: 343 PPVTRPAISPRPAHQPQVVTPEAIKADAAADN-TQEETE 380
+           PP   PA +P P   P    PE + ADA A   T ++TE
+Sbjct: 15  PPPPAPAPAPDPPRPPVAPPPELVNADAEAPKVTAQKTE 53
+
+
+>6350_blastp/all_proteins.fasta name|NP_892071|Q7Y3Z0|118
+          Length = 690
+
+ Score = 29.6 bits (65), Expect = 1.3
+ Identities = 30/128 (23%), Positives = 57/128 (44%), Gaps = 15/128 (11%)
+
+Query: 117 TKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSD----ETIDMLKKTAD 172
+           T E +L++E     A +AA +    AKE  +E  + +  A+S +D    ET +++K    
+Sbjct: 99  TPEIILQLEQLRAEAVRAALE----AKESKNEATQQAGIAISAADNAAQETAELIKAAVK 154
+
+Query: 173 VSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQL---SQNSSAEISELINKLQ 229
+                +E+A    +      +  V+T      +  +E+ QL   + NS+AE +   N   
+Sbjct: 155 EDADRAEAA----RYGAETAQSTVNTLAAEVARHHSEVGQLASAASNSAAEAASSSNSSA 210
+
+Query: 230 NEICKAEA 237
+               ++E+
+Sbjct: 211 QSASESES 218
+
+
+>5362_blastp/all_proteins.fasta name|NP_050116|Q9T1J2|100
+          Length = 159
+
+ Score = 29.6 bits (65), Expect = 1.3
+ Identities = 20/79 (25%), Positives = 37/79 (46%)
+
+Query: 90  DLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDEC 149
+           D++++ V    +     K+N  A V Q + A+++   ATR A    + ++ T    S E 
+Sbjct: 8   DIYDELVDNYFNMRVAIKENKPAIVNQERLAIMKDNSATRRANILYKIAMATESTSSKEA 67
+
+Query: 150 IRASRDAVSQSDETIDMLK 168
+           + A    V   + TI ++K
+Sbjct: 68  LLAKAAEVLTGEMTIPVMK 86
+
+
+>24171_blastp/all_proteins.fasta name|YP_874088|A0MN92|374
+          Length = 544
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 37/207 (17%), Positives = 87/207 (42%), Gaps = 23/207 (11%)
+
+Query: 74  AEEASRRSEEML---AKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRS 130
+           +E+AS   +EM    A+  DL +   + +++ S   K+   A  GQ +E        T+ 
+Sbjct: 261 SEDASEEKQEMKQDEAQVLDLGDLQGEASEEPSEEDKEE-GALEGQNEE--------TQD 311
+
+Query: 131 AKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGA 190
+                Q+ +   ++  +E      D +   +E +  +           ES    +  + A
+Sbjct: 312 KVALVQEEVEEHEKEDEETFNYILDKLDFLEEKLSGVLSMLSSKAPQEESEDAVVSSSLA 371
+
+Query: 191 RIRENVDT---NVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVD 247
+            ++  V++   +++N    + ++ + S    AE+  +I+KL++   K E+        V+
+Sbjct: 372 ELKSFVESKLASLENRVNYVVDIVEASLEKFAELKSVISKLESYNEKIES--------VE 423
+
+Query: 248 SSNAHLKETVSRVEEVQQNTVQAVKQI 274
+            S +  ++    V E  ++T +++  +
+Sbjct: 424 KSLSSFEDLYKEVNEKLESTTKSLNSV 450
+
+
+>19059_blastp/all_proteins.fasta 
+          Length = 262
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 43/191 (22%), Positives = 81/191 (42%), Gaps = 25/191 (13%)
+
+Query: 76  EASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAA 135
+           E+   S+E+ A +T +FE+AVK        A    E+ + Q  E    + +A + A++A 
+Sbjct: 24  ESVELSDEVKANFTTVFEQAVKAN------AVKLAESHINQIAERSDELVEA-QVAEKAG 76
+
+Query: 136 QDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIREN 195
+           +   R  ++ +      +++ +S++ E +     + D+     ES +  M+E        
+Sbjct: 77  EIETRLYEDANKYFDHIAQEWLSENKEAV-----SRDIKADLFESLVTGMKE------LF 125
+
+Query: 196 VDTNV---KNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAH 252
+           VD NV   +     +AE+      +  E+  L     N+    E  N +   +V      
+Sbjct: 126 VDHNVIIPEAQVDVVAELEDELTENQQEVKRLFE--ANQAQAKEIANMKRDTIVSEKTKD 183
+
+Query: 253 LKETVSRVEEV 263
+           L E  S+VE+V
+Sbjct: 184 LTE--SQVEKV 192
+
+
+>17379_blastp/all_proteins.fasta name|YP_239564|Q4ZCD3|259
+          Length = 498
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 29/133 (21%), Positives = 60/133 (45%), Gaps = 11/133 (8%)
+
+Query: 107 KDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRA-SRDAVSQSDETID 165
+           K+  E  V   K+A+  +ED     + A+  +I+  + + +E + +  R + S S E  +
+Sbjct: 150 KNALEQKVSDIKQAVDNLEDYVIRVQDASFIAIQKLETIKNEAVSSIDRLSASASSELKN 209
+
+Query: 166 MLKKTADVSVRASESALLKMQENGARIRENVDTNVKNST-----KAIAEMNQLSQNSS-- 218
+           +L++    +    +SA+  +Q       + +D N KN +     + I + N   +N+   
+Sbjct: 210 LLEQYKISATETKDSAVSNIQSKADESSQVLD-NKKNESISYIDEKIQQFNTAYENNGFA 268
+
+Query: 219 --AEISELINKLQ 229
+              ++   IN LQ
+Sbjct: 269 TPGDVDSKINALQ 281
+
+
+>17302_blastp/all_proteins.fasta name|YP_239564|Q4ZCL0|258
+          Length = 2066
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 38/174 (21%), Positives = 73/174 (41%), Gaps = 19/174 (10%)
+
+Query: 114 VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK---KT 170
+           V    +A L   D +  + +  Q  I   K ++D  ++  +   SQ ++ +  +    + 
+Sbjct: 33  VNSEMKANLSAFDKSEKSMEKYQARI---KGLNDR-LKVQKKMYSQVEDELKQVNANYQK 88
+
+Query: 171 ADVSVRASESALLKMQENGARIRENVD----------TNVKNSTKAIAEMNQLSQNSSAE 220
+           A  SV+  E A LK+ E   + +  +D          T +K +       NQ  Q++  +
+Sbjct: 89  AKSSVKDVEKAYLKLVEANKKEKLALDKSKEALKSSNTELKKAENQYKRTNQRKQDAYQK 148
+
+Query: 221 ISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQ--NTVQAVK 272
+           + +L +  Q      +A  AQ+K   D+      +  + VE+ +Q  N VQ +K
+Sbjct: 149 LKQLRDAEQKLKNSNQATTAQLKRASDAVQKQSAKHKALVEQYKQEGNQVQKLK 202
+
+
+>17233_blastp/all_proteins.fasta name|YP_239564|Q4ZCS9|257
+          Length = 1649
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 32/145 (22%), Positives = 64/145 (44%), Gaps = 16/145 (11%)
+
+Query: 143 KEMSDECIRASRDAVSQSDETIDMLK---KTADVSVRASESALLKMQENGARIRENVD-- 197
+           K ++D+ ++  +   SQ ++ +  +    + A  SV+  E A LK+ E   + +  +D  
+Sbjct: 59  KGLNDK-LKVQKKMYSQVEDELKQVNANYQKAKSSVKDVEKAYLKLVEANKKEKLALDKS 117
+
+Query: 198 --------TNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSS 249
+                   T +K +       NQ  Q++  ++ +L +  Q      +A  AQ+K   D+ 
+Sbjct: 118 KEALKSSNTELKKAENQYKRTNQRKQDAYQKLKQLRDAEQKLKNSNQATTAQLKRASDAV 177
+
+Query: 250 NAHLKETVSRVEEVQQ--NTVQAVK 272
+                +  + VE+ +Q  N VQ +K
+Sbjct: 178 QKQSAKHKALVEQYKQEGNQVQKLK 202
+
+
+>17157_blastp/all_proteins.fasta name|YP_239564|Q4ZD05|256
+          Length = 2066
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 38/174 (21%), Positives = 73/174 (41%), Gaps = 19/174 (10%)
+
+Query: 114 VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK---KT 170
+           V    +A L   D +  + +  Q  I   K ++D  ++  +   SQ ++ +  +    + 
+Sbjct: 33  VNSEMKANLSAFDKSEKSMEKYQARI---KGLNDR-LKVQKKMYSQVEDELKQVNANYQK 88
+
+Query: 171 ADVSVRASESALLKMQENGARIRENVD----------TNVKNSTKAIAEMNQLSQNSSAE 220
+           A  SV+  E A LK+ E   + +  +D          T +K +       NQ  Q++  +
+Sbjct: 89  AKSSVKDVEKAYLKLVEANKKEKLALDKSKEALKSSNTELKKAENQYKRTNQRKQDAYQK 148
+
+Query: 221 ISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQ--NTVQAVK 272
+           + +L +  Q      +A  AQ+K   D+      +  + VE+ +Q  N VQ +K
+Sbjct: 149 LKQLRDAEQKLKNSNQATTAQLKRASDAVQKQSAKHKALVEQYKQEGNQVQKLK 202
+
+
+>10221_blastp/all_proteins.fasta 
+          Length = 423
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 36/162 (22%), Positives = 67/162 (41%), Gaps = 20/162 (12%)
+
+Query: 73  KAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK 132
+           +A+ +     E++    D+  + V+   +  RW ++      G  K   L+ E   R  K
+Sbjct: 279 RAKRSGDDCYEVIVSKLDI-SREVETYTEAERWFRET--GPEGMRKVDFLQREADLRFKK 335
+
+Query: 133 QAAQDSIR---TAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENG 189
+           + A  ++     A+E S+E +RA+ +A + +    D +    + +  A ES      E G
+Sbjct: 336 EQAAKALADIVAAEESSEEDLRAATEAYTAACVAFDEIGAKREDAAEAEES---DDAEGG 392
+
+Query: 190 ARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNE 231
+             +RE           A+AEM    +     ++E+   L NE
+Sbjct: 393 ISLRE-----------ALAEMGVDPEADELTVAEVEALLGNE 423
+
+
+>4512_blastp/all_proteins.fasta name|NP_803347|Q8SDP3|82
+          Length = 2066
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 38/174 (21%), Positives = 73/174 (41%), Gaps = 19/174 (10%)
+
+Query: 114 VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK---KT 170
+           V    +A L   D +  + +  Q  I   K ++D  ++  +   SQ ++ +  +    + 
+Sbjct: 33  VNSEMKANLSAFDKSEKSMEKYQARI---KGLNDR-LKVQKKMYSQVEDELKQVNANYQK 88
+
+Query: 171 ADVSVRASESALLKMQENGARIRENVD----------TNVKNSTKAIAEMNQLSQNSSAE 220
+           A  SV+  E A LK+ E   + +  +D          T +K +       NQ  Q++  +
+Sbjct: 89  AKSSVKDVEKAYLKLVEANKKEKLALDKSKEALKSSNTELKKAENQYKRTNQRKQDAYQK 148
+
+Query: 221 ISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQ--NTVQAVK 272
+           + +L +  Q      +A  AQ+K   D+      +  + VE+ +Q  N VQ +K
+Sbjct: 149 LKQLRDAEQKLKNSNQATTAQLKRASDAVQKQSAKHKALVEQYKQEGNQVQKLK 202
+
+
+>313_blastp/all_proteins.fasta name|NP_061653|Q9B0D2|9
+          Length = 2067
+
+ Score = 29.3 bits (64), Expect = 1.6
+ Identities = 38/174 (21%), Positives = 73/174 (41%), Gaps = 19/174 (10%)
+
+Query: 114 VGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLK---KT 170
+           V    +A L   D +  + +  Q  I   K ++D  ++  +   SQ ++ +  +    + 
+Sbjct: 33  VNSEMKANLSAFDKSEKSMEKYQARI---KGLNDR-LKVQKKMYSQVEDELKQVNANYQK 88
+
+Query: 171 ADVSVRASESALLKMQENGARIRENVD----------TNVKNSTKAIAEMNQLSQNSSAE 220
+           A  SV+  E A LK+ E   + +  +D          T +K +       NQ  Q++  +
+Sbjct: 89  AKSSVKDVEKAYLKLVEANKKEKLALDKSKEALKSSNTELKKAENQYKRTNQRKQDAYQK 148
+
+Query: 221 ISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQ--NTVQAVK 272
+           + +L +  Q      +A  AQ+K   D+      +  + VE+ +Q  N VQ +K
+Sbjct: 149 LKQLRDAEQKLKNSNQATTAQLKRASDAVQKQSAKHKALVEQYKQEGNQVQKLK 202
+
+
+>20737_blastp/all_proteins.fasta 
+          Length = 1380
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 40/190 (21%), Positives = 74/190 (38%), Gaps = 21/190 (11%)
+
+Query: 51  KADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNC 110
+           K D T  Q    +      Y  +A EA+  S    AK +       +  DD     K + 
+Sbjct: 249 KVDVTVGQAMTRLQTEIVAYVGRANEATGAS----AKLSQGIIYVAEHLDDI---VKISA 301
+
+Query: 111 EAAVGQTKEAMLRIEDATRSAK----------QAAQDSIRTAKEMSDECIRASRDAVSQS 160
+             A G+    +L+   A R A            AA      A  +S E  R+ RDA +  
+Sbjct: 302 SLAAGRLVTYLLQSGIAARQAAIDWNTKRLALAAATKEESAAALVSLEKARSDRDAAAAK 361
+
+Query: 161 DETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAE 220
+            +      + A+V+ +A  + +  M+E+ A     +  +++ +   +AE   +  ++ A+
+Sbjct: 362 LQNA----QAAEVAAQAELAGMRAMRESLAMQSALIAGSIRYTDAKLAEARAIEASAVAQ 417
+
+Query: 221 ISELINKLQN 230
+           ++   + L N
+Sbjct: 418 VATARSNLAN 427
+
+
+>19046_blastp/all_proteins.fasta 
+          Length = 762
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 20/82 (24%), Positives = 37/82 (45%), Gaps = 2/82 (2%)
+
+Query: 162 ETIDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEI 221
+           ET+D  K         +   +L +Q+N  ++  N  T      + I ++N +S+N +A  
+Sbjct: 33  ETLDGAKTKVTNEGSLNRCGVL-VQKNAVQLETNTITQTAKINEVIDQVNLISENLAAIS 91
+
+Query: 222 SE-LINKLQNEICKAEAMNAQM 242
+            E +I+KL   +   E +   M
+Sbjct: 92  DESVIDKLDQVVADVEVLKVDM 113
+
+
+>15456_blastp/all_proteins.fasta 
+          Length = 1219
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 31/154 (20%), Positives = 62/154 (40%), Gaps = 7/154 (4%)
+
+Query: 96  VKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRD 155
+           VK  +DTS+    + +  V       L +  ++    +AAQ  +       D+  + + +
+Sbjct: 612 VKAVEDTSKVTGQSADTLVKN-----LNLGFSSLDQMKAAQKGLSEYVTAMDKSEQNALE 666
+
+Query: 156 AVSQSDETIDMLKKTADVSVRASESALLKMQE--NGARIRENVDTNVKNSTKAIAEMNQL 213
+              + DE  +  K  A     A E  L + QE    A+    ++ N   + K +A++   
+Sbjct: 667 VAKRKDEVYNQTKDKAKAEAAAREVLLRQQQEQLTAAKALLAINPNDPEALKQVAKIETE 726
+
+Query: 214 SQNSSAEISELINKLQNEICKAEAMNAQMKHLVD 247
+             N+ A+  E   K ++   K   ++ ++  L D
+Sbjct: 727 ILNTKAQGFENAKKTKDYTDKILGVDREIALLND 760
+
+
+>14828_blastp/all_proteins.fasta 
+          Length = 1219
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 31/154 (20%), Positives = 62/154 (40%), Gaps = 7/154 (4%)
+
+Query: 96  VKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRD 155
+           VK  +DTS+    + +  V       L +  ++    +AAQ  +       D+  + + +
+Sbjct: 612 VKAVEDTSKVTGQSADTLVKN-----LNLGFSSLDQMKAAQKGLSEYVTAMDKSEQNALE 666
+
+Query: 156 AVSQSDETIDMLKKTADVSVRASESALLKMQE--NGARIRENVDTNVKNSTKAIAEMNQL 213
+              + DE  +  K  A     A E  L + QE    A+    ++ N   + K +A++   
+Sbjct: 667 VAKRKDEVYNQTKDKAKAEAAAREVLLRQQQEQLTAAKALLAINPNDPEALKQVAKIETE 726
+
+Query: 214 SQNSSAEISELINKLQNEICKAEAMNAQMKHLVD 247
+             N+ A+  E   K ++   K   ++ ++  L D
+Sbjct: 727 ILNTKAQGFENAKKTKDYTDKILGVDREIALLND 760
+
+
+>14398_blastp/all_proteins.fasta 
+          Length = 1219
+
+ Score = 28.9 bits (63), Expect = 2.1
+ Identities = 31/154 (20%), Positives = 62/154 (40%), Gaps = 7/154 (4%)
+
+Query: 96  VKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRD 155
+           VK  +DTS+    + +  V       L +  ++    +AAQ  +       D+  + + +
+Sbjct: 612 VKAVEDTSKVTGQSADTLVKN-----LNLGFSSLDQMKAAQKGLSEYVTAMDKSEQNALE 666
+
+Query: 156 AVSQSDETIDMLKKTADVSVRASESALLKMQE--NGARIRENVDTNVKNSTKAIAEMNQL 213
+              + DE  +  K  A     A E  L + QE    A+    ++ N   + K +A++   
+Sbjct: 667 VAKRKDEVYNQTKDKAKAEAAAREVLLRQQQEQLTAAKALLAINPNDPEALKQVAKIETE 726
+
+Query: 214 SQNSSAEISELINKLQNEICKAEAMNAQMKHLVD 247
+             N+ A+  E   K ++   K   ++ ++  L D
+Sbjct: 727 ILNTKAQGFENAKKTKDYTDKILGVDREIALLND 760
+
+
+>24534_blastp/all_proteins.fasta name|YP_874183|A1YZX6|379
+          Length = 221
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 31/130 (23%), Positives = 53/130 (40%), Gaps = 5/130 (3%)
+
+Query: 112 AAVGQTKEAMLRIEDATRSA-KQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDML--- 167
+           AA  Q  E     +   R+A KQAA+D  R   +   +  RA R A  Q+++  +     
+Sbjct: 5   AAHNQEPELTAEQKREKRAAEKQAAKDEERRIAQEKKDAERAERAAKKQAEKDAEKKAKA 64
+
+Query: 168 -KKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELIN 226
+            KK A+ ++ A+++A         R  E  +     + K  A   Q   +  A    L  
+Sbjct: 65  DKKDAERALAAAQAAEEAKTRKEKRAAEKAEAEKVAAEKKAAAAEQRILDRQARRDALAA 124
+
+Query: 227 KLQNEICKAE 236
+           + ++ I + E
+Sbjct: 125 RRESTITEGE 134
+
+
+>21204_blastp/all_proteins.fasta name|YP_529896|Q0H230|341
+          Length = 955
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 32/149 (21%), Positives = 60/149 (40%), Gaps = 18/149 (12%)
+
+Query: 43  RDSQTAIDKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDT 102
+           R+ +  I+  +    +Y+ S+        Q  ++  + +E+   +   LF+   K  DD 
+Sbjct: 97  RNFRREIEFTEAQLSKYKQSL--------QAIQDEQQAAEQSTKRLESLFKATGKSVDDF 148
+
+Query: 103 SRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQ--S 160
+           +    +    A+   K +  ++EDA     QA   +     +M        R A+ Q  S
+Sbjct: 149 ADVLGNKLVNAIKDGKASSAQLEDALGKIGQAVLGAGVDLDKM--------RQALDQLAS 200
+
+Query: 161 DETIDMLKKTADVSVRASESALLKMQENG 189
+              +D +KK  D   +A+ SA   +Q  G
+Sbjct: 201 GAKLDKVKKDLDEIAKAANSAEKDVQGLG 229
+
+
+>20537_blastp/all_proteins.fasta 
+          Length = 573
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 30/167 (17%), Positives = 65/167 (38%), Gaps = 22/167 (13%)
+
+Query: 130 SAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENG 189
+           S     +D IR A+  S +C    R A  +      ++    +V+    E    K  EN 
+Sbjct: 168 SMNTVLKDKIRVAQGQSSDCTHLLRLAEGKVFAQEKLISSLQEVNDNRQEEKQKKYDENL 227
+
+Query: 190 ARIRE------NVDTNVKN----------STKAIAEMNQLSQNSSAEISELINKL----Q 229
+           A +++      NV+  +KN          +TK +  + Q   +  +++  +   L    +
+Sbjct: 228 ALMQDISTQKSNVENAIKNIESSIGDYSAATKTLTALRQGQADKKSQLKLIAKDLKFFRE 287
+
+Query: 230 NEICK--AEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQI 274
+           ++ C   ++ +    K  +  SN    +T+++  E     ++   +I
+Sbjct: 288 HDECPTCSQQIETAFKDAMIGSNTQRGKTIAKEIEAFNTDIEQASEI 334
+
+
+>19369_blastp/all_proteins.fasta name|YP_406385|Q30LD7|279
+          Length = 212
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 20/78 (25%), Positives = 33/78 (42%), Gaps = 4/78 (5%)
+
+Query: 57  KQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQ 116
+           K Y +  + + A   +K EEA ++ EE LA    L E++ K   + +       E     
+Sbjct: 138 KSYAEEREDFLAKEKEKQEEAKKKEEERLA----LKEESYKSLGEATEMLNTLMEEQGVS 193
+
+Query: 117 TKEAMLRIEDATRSAKQA 134
+            +E  L +E    S + A
+Sbjct: 194 PEELALALEQGKESYRNA 211
+
+
+>18426_blastp/all_proteins.fasta name|YP_239564|Q4Z9D6|271
+          Length = 604
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 22/88 (25%), Positives = 48/88 (54%), Gaps = 5/88 (5%)
+
+Query: 193 RENVDTNVKNSTKAIAEMNQL---SQNSSAEISELINKLQNEICKAEA-MNAQMKHLVDS 248
+           +EN+   +  +  AI + N+    ++   + I ++ +KL + I K +  +N  MK+ +DS
+Sbjct: 350 KENIKELIDATKIAIEKSNKAELTTKGFQSSIDDVTSKLNSAIEKYDKFINETMKNYMDS 409
+
+Query: 249 SNAHLKETVSRVEEVQQNTVQAVKQIQE 276
+           +N+ L+E +++     +N V  +K + E
+Sbjct: 410 TNSQLQE-LNQNYITLKNIVDPLKGVSE 436
+
+
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 18/79 (22%), Positives = 33/79 (41%), Gaps = 1/79 (1%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           +KA+ T K +Q S+D  T+      E+  +   E +  Y D     ++  +      K+ 
+Sbjct: 368 NKAELTTKGFQSSIDDVTSKLNSAIEKYDKFINETMKNYMDSTNSQLQELNQNYITLKNI 427
+
+Query: 110 CEAAVGQTKEAMLRIEDAT 128
+            +   G   E +  +ED T
+Sbjct: 428 VDPLKG-VSEKVTALEDTT 445
+
+
+>13807_blastp/all_proteins.fasta name|NP_945075|Q6JII8|206
+          Length = 504
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 13/37 (35%), Positives = 20/37 (54%)
+
+Query: 334 EKLEAAASEPPVTRPAISPRPAHQPQVVTPEAIKADA 370
+           E+ E+A + PPV +PA +P          P+ +KA A
+Sbjct: 106 ERAESALAAPPVEQPAAAPADERAALPQIPDLVKATA 142
+
+
+>12313_blastp/all_proteins.fasta 
+          Length = 562
+
+ Score = 28.5 bits (62), Expect = 2.8
+ Identities = 23/100 (23%), Positives = 45/100 (45%), Gaps = 4/100 (4%)
+
+Query: 107 KDNCEAAVGQTKEAMLRIEDAT---RSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDET 163
+           +DN    V + +  +   +D     R+ KQA   +I  AK++     +AS + +  +DE 
+Sbjct: 323 RDNLSVLVDEYRANVKTKQDLASDIRTKKQAMIATIDKAKKVKAAIEQASAEFIDHADE- 381
+
+Query: 164 IDMLKKTADVSVRASESALLKMQENGARIRENVDTNVKNS 203
+           I +L+K  D  ++     +L+    G       D+ +K +
+Sbjct: 382 IALLQKELDKIIKTKSDIVLEKYHRGIITDMLKDSGIKGA 421
+
+
+>22496_blastp/all_proteins.fasta 
+          Length = 57
+
+ Score = 28.1 bits (61), Expect = 3.7
+ Identities = 18/59 (30%), Positives = 27/59 (45%), Gaps = 4/59 (6%)
+
+Query: 319 DTSKQIIAAVTKQTAEKLEAAASEPPVTRPAISPRPAHQPQVVTPEAIKADAAADNTQE 377
+           DT     A ++K   EKLEA  +     +P ++PRP  +P     EA K     D  ++
+Sbjct: 3   DTRYYGTAELSKAAQEKLEAKKN----PKPKVAPRPEPKPVAPKVEAAKLPEKRDEKKD 57
+
+
+>12732_blastp/all_proteins.fasta 
+          Length = 589
+
+ Score = 28.1 bits (61), Expect = 3.7
+ Identities = 21/101 (20%), Positives = 40/101 (39%), Gaps = 32/101 (31%)
+
+Query: 181 ALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQN----SSAEISELINKLQNEICKAE 236
+           A + +QEN AR+ EN  + V    + +  +N +       S   I +++N          
+Sbjct: 49  APVAIQENVARVNENAKSTVAKVNEVVTAVNDIKTTLGVISDGSIIDVVN---------- 98
+
+Query: 237 AMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQET 277
+                             +TV++VE V++N  +  + +Q T
+Sbjct: 99  ------------------QTVAKVESVEENLGETARTLQTT 121
+
+
+>3429_blastp/all_proteins.fasta name|NP_944890|Q6KGJ0|67
+          Length = 418
+
+ Score = 28.1 bits (61), Expect = 3.7
+ Identities = 28/142 (19%), Positives = 58/142 (40%), Gaps = 9/142 (6%)
+
+Query: 73  KAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK 132
+           + + A  +++E  A  +DL  K    A+     AK+     +G   +  L +        
+Sbjct: 276 RLQVAQMKAKEQEAALSDLTNKISASAEAFGFDAKEAATTILGAGLDNPLSV-------- 327
+
+Query: 133 QAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARI 192
+               +++  A +  +E I +   A+ + +  I  LK+TA   +  S +      +  A +
+Sbjct: 328 -LFMNAMEGANQKLNETIASHASAMEEKESEITKLKETAGAVLEHSNAMEEVGNDGEADL 386
+
+Query: 193 RENVDTNVKNSTKAIAEMNQLS 214
+            E      KN+++  AE  +L+
+Sbjct: 387 VEEEKEPAKNASEDTAEQRKLA 408
+
+
+>3428_blastp/all_proteins.fasta name|NP_944889|Q6KGJ1|67
+          Length = 448
+
+ Score = 28.1 bits (61), Expect = 3.7
+ Identities = 28/142 (19%), Positives = 58/142 (40%), Gaps = 9/142 (6%)
+
+Query: 73  KAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK 132
+           + + A  +++E  A  +DL  K    A+     AK+     +G   +  L +        
+Sbjct: 306 RLQVAQMKAKEQEAALSDLTNKISASAEAFGFDAKEAATTILGAGLDNPLSV-------- 357
+
+Query: 133 QAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARI 192
+               +++  A +  +E I +   A+ + +  I  LK+TA   +  S +      +  A +
+Sbjct: 358 -LFMNAMEGANQKLNETIASHASAMEEKESEITKLKETAGAVLEHSNAMEEVGNDGEADL 416
+
+Query: 193 RENVDTNVKNSTKAIAEMNQLS 214
+            E      KN+++  AE  +L+
+Sbjct: 417 VEEEKEPAKNASEDTAEQRKLA 438
+
+
+>1245_blastp/all_proteins.fasta 
+          Length = 815
+
+ Score = 28.1 bits (61), Expect = 3.7
+ Identities = 28/130 (21%), Positives = 49/130 (37%), Gaps = 8/130 (6%)
+
+Query: 76  EASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAKQAA 135
+           E  R++   LA      EKA + A+  +   K+       Q K           SAK+AA
+Sbjct: 53  EGFRKTSAQLAVTGHALEKARQEAEALATQFKNTERPTRAQAK--------VLESAKRAA 104
+
+Query: 136 QDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVSVRASESALLKMQENGARIREN 195
+           +D       ++D   R  R+  +    T ++      +  R SE+     ++  A +R +
+Sbjct: 105 EDLQAKYNRLTDSVKRQQRELAAVGINTRNLAHDEQGLKNRISETTAQLNRQRDALVRVS 164
+
+Query: 196 VDTNVKNSTK 205
+                 N+ K
+Sbjct: 165 AQQAKLNAVK 174
+
+
+>24300_blastp/all_proteins.fasta name|YP_874183|A0MZC3|375
+          Length = 841
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 19/82 (23%), Positives = 42/82 (51%), Gaps = 4/82 (4%)
+
+Query: 198 TNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAM-NAQMK---HLVDSSNAHL 253
+           TN+++S     E + LS  +  + + +I K+  +  +AEAM N   K    +++ +  H 
+Sbjct: 493 TNIEDSLAGYPEFDNLSTETLVKYNSIIVKVGTKKGEAEAMANLLTKAGYEVINMAEYHE 552
+
+Query: 254 KETVSRVEEVQQNTVQAVKQIQ 275
+            + ++R  + +Q    A+ ++Q
+Sbjct: 553 WDCIARRRKEEQEAKLAISKLQ 574
+
+
+>20963_blastp/all_proteins.fasta name|YP_338236|Q09WP6|337
+          Length = 378
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 18/65 (27%), Positives = 34/65 (52%), Gaps = 1/65 (1%)
+
+Query: 200 VKNSTKAI-AEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+           + N T+ + A  N+  + +SA ++ + NK+ NEI K E  + + K     S+  +    S
+Sbjct: 15  LNNDTQRVTAWQNEAVEYTSAFVTNIHNKIANEITKVEFNHVKYKKSDVGSDTLISMAGS 74
+
+Query: 259 RVEEV 263
+            ++EV
+Sbjct: 75  DLDEV 79
+
+
+>20909_blastp/all_proteins.fasta name|YP_338236|Q09WV0|336
+          Length = 378
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 18/65 (27%), Positives = 34/65 (52%), Gaps = 1/65 (1%)
+
+Query: 200 VKNSTKAI-AEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+           + N T+ + A  N+  + +SA ++ + NK+ NEI K E  + + K     S+  +    S
+Sbjct: 15  LNNDTQRVTAWQNEAVEYTSAFVTNIHNKIANEITKVEFNHVKYKKSDVGSDTLISMAGS 74
+
+Query: 259 RVEEV 263
+            ++EV
+Sbjct: 75  DLDEV 79
+
+
+>19560_blastp/all_proteins.fasta name|YP_249597|Q09YG5|281
+          Length = 378
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 18/65 (27%), Positives = 34/65 (52%), Gaps = 1/65 (1%)
+
+Query: 200 VKNSTKAI-AEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+           + N T+ + A  N+  + +SA ++ + NK+ NEI K E  + + K     S+  +    S
+Sbjct: 15  LNNDTQRVTAWQNEAVEYTSAFVTNIHNKIANEITKVEFNHVKYKKSDVGSDTLISMAGS 74
+
+Query: 259 RVEEV 263
+            ++EV
+Sbjct: 75  DLDEV 79
+
+
+>9704_blastp/all_proteins.fasta 
+          Length = 254
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 20/53 (37%), Positives = 27/53 (50%), Gaps = 3/53 (5%)
+
+Query: 325 IAAVTKQTAEKLEAAASEPPVTRPAISPR---PAHQPQVVTPEAIKADAAADN 374
+           + A + QTAE  E AA+  P+T+   S         P+  T EA KA AAA +
+Sbjct: 90  VLAHSAQTAETPEQAAAWAPLTKAGASKMIEWLTGLPKAATAEAPKAKAAASD 142
+
+
+>8180_blastp/all_proteins.fasta name|NP_859266|Q7Y2W1|141
+          Length = 645
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 33/142 (23%), Positives = 58/142 (40%), Gaps = 10/142 (7%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           D   T  +  +D+  K T   TQ  E A+  ++      +D  + A  RA +  + A D 
+Sbjct: 115 DDLATIRRLNEDTATKNTQA-TQSKESAAASAKSA----SDSAKTATSRAAEAGQKATDA 169
+
+Query: 110 CEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKK 169
+            EAA      A    E +TR     A +S + A   +++  + +  A    +   ++LK+
+Sbjct: 170 TEAATRAVTAAGNAEESSTR-----AGESEKAAGADAEKARQHAEKARLAQESAGEILKR 224
+
+Query: 170 TADVSVRASESALLKMQENGAR 191
+               +V A E+  +     G R
+Sbjct: 225 AEAATVSAEEARRMAENARGPR 246
+
+
+>8014_blastp/all_proteins.fasta name|NP_859100|Q7Y3C2|140
+          Length = 645
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 33/142 (23%), Positives = 58/142 (40%), Gaps = 10/142 (7%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           D   T  +  +D+  K T   TQ  E A+  ++      +D  + A  RA +  + A D 
+Sbjct: 115 DDLATIRRLNEDTATKNTQA-TQSKESAAASAKSA----SDSAKTATSRAAEAGQKATDA 169
+
+Query: 110 CEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKK 169
+            EAA      A    E +TR     A +S + A   +++  + +  A    +   ++LK+
+Sbjct: 170 TEAATRAVTAAGNAEESSTR-----AGESEKAAGADAEKARQHAEKARLAQESAGEILKR 224
+
+Query: 170 TADVSVRASESALLKMQENGAR 191
+               +V A E+  +     G R
+Sbjct: 225 AEAATVSAEEARRMAENARGPR 246
+
+
+>7847_blastp/all_proteins.fasta name|NP_612900|Q8SCA4|139
+          Length = 678
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 33/142 (23%), Positives = 58/142 (40%), Gaps = 10/142 (7%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           D   T  +  +D+  K T   TQ  E A+  ++      +D  + A  RA +  + A D 
+Sbjct: 115 DDLATIRRLNEDTATKNTQA-TQSKESAAASAKSA----SDSAKTATSRAAEAGQKATDA 169
+
+Query: 110 CEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKK 169
+            EAA      A    E +TR     A +S + A   +++  + +  A    +   ++LK+
+Sbjct: 170 TEAATRAVTAAGNAEESSTR-----AGESEKAAGADAEKARQHAEKARLAQESAGEILKR 224
+
+Query: 170 TADVSVRASESALLKMQENGAR 191
+               +V A E+  +     G R
+Sbjct: 225 AEAATVSAEEARRMAENARGPR 246
+
+
+>7739_blastp/all_proteins.fasta name|NP_050558|Q776P1|137
+          Length = 645
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 33/142 (23%), Positives = 58/142 (40%), Gaps = 10/142 (7%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           D   T  +  +D+  K T   TQ  E A+  ++      +D  + A  RA +  + A D 
+Sbjct: 115 DDLATIRRLNEDTATKNTQA-TQSKESAAASAKSA----SDSAKTATSRAAEAGQKATDA 169
+
+Query: 110 CEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKK 169
+            EAA      A    E +TR     A +S + A   +++  + +  A    +   ++LK+
+Sbjct: 170 TEAATRAVTAAGNAEESSTR-----AGESEKAAGADAEKARQHAEKARLAQESAGEILKR 224
+
+Query: 170 TADVSVRASESALLKMQENGAR 191
+               +V A E+  +     G R
+Sbjct: 225 AEAATVSAEEARRMAENARGPR 246
+
+
+>6246_blastp/all_proteins.fasta name|NP_813746|Q6H9T2|116
+          Length = 1158
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 11/40 (27%), Positives = 25/40 (62%)
+
+Query: 240 AQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQETSH 279
+           A+MK  +  +   + +TVS+  E Q  T+Q ++++Q+ ++
+Sbjct: 843 AEMKTSITETRNEITQTVSKTLEDQSATIQQIQRVQKDTN 882
+
+
+>1984_blastp/all_proteins.fasta name|NP_049908|Q9XJR4|41
+          Length = 279
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 35/173 (20%), Positives = 75/173 (43%), Gaps = 19/173 (10%)
+
+Query: 101 DTSRWAKDNCEAAVG--------QTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRA 152
+           D   +  D+ +AA G         T+ A   I D    A+   +DS+  A+ ++ + +  
+Sbjct: 55  DIGGYMSDSTQAAFGAASDMAYSSTEFAGQAITDGFDYAEGVNRDSLDMAEGINRDSLNF 114
+
+Query: 153 SRDAVS-QSDETIDMLKKTADVSVRASES----ALLKMQENGARIRENVDTNVKNSTKAI 207
+            RDA+S   D   D ++ ++D  + + E     A   M  +     ++++  +   + A+
+Sbjct: 115 GRDALSVTGDLMTDAMQYSSDAMLASIEGNAGLAGQVMDASTTMTGQSLNFGLDTFSGAM 174
+
+Query: 208 AEMNQLSQNSSAEISELINKLQNEICK-----AEAMNAQMKHLVDSSNAHLKE 255
+             +NQ S N+ A ++E  +    ++ +        + AQ +  + +SN   +E
+Sbjct: 175 DSLNQ-SNNNMALLAEFTSNQSTDLARDSMAFGADLMAQYQDNISASNYDARE 226
+
+
+>1888_blastp/all_proteins.fasta 
+          Length = 645
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 33/142 (23%), Positives = 58/142 (40%), Gaps = 10/142 (7%)
+
+Query: 50  DKADTTAKQYQDSMDKYTALYTQKAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDN 109
+           D   T  +  +D+  K T   TQ  E A+  ++      +D  + A  RA +  + A D 
+Sbjct: 115 DDLATIRRLNEDTATKNTQA-TQSKESAAASAKSA----SDSAKTATSRAAEAGQKATDA 169
+
+Query: 110 CEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKK 169
+            EAA      A    E +TR     A +S + A   +++  + +  A    +   ++LK+
+Sbjct: 170 TEAATRAVTAAGNAEESSTR-----AGESEKAAGADAEKARQHAEKARLAQESAGEILKR 224
+
+Query: 170 TADVSVRASESALLKMQENGAR 191
+               +V A E+  +     G R
+Sbjct: 225 AEAATVSAEEARRMAENARGPR 246
+
+
+>1421_blastp/all_proteins.fasta name|NP_569806|Q9ZX08|28
+          Length = 213
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 21/68 (30%), Positives = 32/68 (47%), Gaps = 4/68 (5%)
+
+Query: 304 SQTWVGVFKELISSVDTSKQ--IIAAVTKQTAEKLEAAASEPPVTRPA--ISPRPAHQPQ 359
+           S+T   + KE   +V   ++   +AA +   AE L   A E  +      + PRPA  P+
+Sbjct: 69  SKTGKAILKESSDAVGPWRERVALAAASAILAEGLPVLAKEFSIAASVTFVMPRPAGAPK 128
+
+Query: 360 VVTPEAIK 367
+             TP A+K
+Sbjct: 129 RSTPPAVK 136
+
+
+>898_blastp/all_proteins.fasta name|NP_044951|O21872|20
+          Length = 378
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 18/65 (27%), Positives = 34/65 (52%), Gaps = 1/65 (1%)
+
+Query: 200 VKNSTKAI-AEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+           + N T+ + A  N+  + +SA ++ + NK+ NEI K E  + + K     S+  +    S
+Sbjct: 15  LNNDTQRVTAWQNEAVEYTSAFVTNIHNKIANEITKVEFNHVKYKKSDVGSDTLISMAGS 74
+
+Query: 259 RVEEV 263
+            ++EV
+Sbjct: 75  DLDEV 79
+
+
+>834_blastp/all_proteins.fasta name|NP_047118|O80106|19
+          Length = 378
+
+ Score = 27.7 bits (60), Expect = 4.8
+ Identities = 18/65 (27%), Positives = 34/65 (52%), Gaps = 1/65 (1%)
+
+Query: 200 VKNSTKAI-AEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVS 258
+           + N T+ + A  N+  + +SA ++ + NK+ NEI K E  + + K     S+  +    S
+Sbjct: 15  LNNDTQRVTAWQNEAVEYTSAFVTNIHNKIANEITKVEFNHVKYKKSDVGSDTLISMAGS 74
+
+Query: 259 RVEEV 263
+            ++EV
+Sbjct: 75  DLDEV 79
+
+
+>26034_blastp/all_proteins.fasta 
+          Length = 133
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 24/73 (32%), Positives = 36/73 (49%), Gaps = 5/73 (6%)
+
+Query: 195 NVDTNV-KNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSS---N 250
+           N  TNV K++ + I   N+ +QN  AE  ELI +L     + E M +   +L   +   N
+Sbjct: 57  NNHTNVIKSNMEVINSHNESNQNLMAENKELIKELARTSEQKEKMESIAAYLATQNPQIN 116
+
+Query: 251 AHLKETVSRVEEV 263
+           A +  T SR E +
+Sbjct: 117 A-MPRTASRPENI 128
+
+
+>23714_blastp/all_proteins.fasta name|YP_950667|A1BU53|370
+          Length = 478
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 10/53 (18%), Positives = 30/53 (56%)
+
+Query: 224 LINKLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQE 276
+           ++N+L+N      +     K  + S++A +++ V+ +E ++Q  ++  +Q+ +
+Sbjct: 407 MVNELENSQIAMNSTGLLSKETILSNHAWVEDPVAEMERIEQENIELNQQLPD 459
+
+
+>23666_blastp/all_proteins.fasta name|YP_950620|A1BTX2|369
+          Length = 510
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 17/76 (22%), Positives = 36/76 (47%)
+
+Query: 107 KDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDM 166
+           +   E  V Q K+ +   +    S KQ A++ +    +   + I +  DA+  S+++ID+
+Sbjct: 160 RSELEKKVQQLKQDIGDTQTLIESIKQTAEEYLIKINKAQADAIVSITDALISSNQSIDL 219
+
+Query: 167 LKKTADVSVRASESAL 182
+            ++ A   + A   A+
+Sbjct: 220 EREEALRQIDAKRDAI 235
+
+
+>22360_blastp/all_proteins.fasta 
+          Length = 162
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 16/52 (30%), Positives = 25/52 (48%), Gaps = 8/52 (15%)
+
+Query: 331 QTAEKLEAAASEPPVTRPA--------ISPRPAHQPQVVTPEAIKADAAADN 374
+           + A K  A A+E P T+PA         +P+PA + +V  P     D  A++
+Sbjct: 109 ERAAKAAAKAAEKPATKPAAKKAAPAKAAPKPAPKKRVSRPRKRTGDVPAED 160
+
+
+>15093_blastp/all_proteins.fasta 
+          Length = 1445
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 50/264 (18%), Positives = 99/264 (37%), Gaps = 38/264 (14%)
+
+Query: 144 EMSDECIRASRDAVSQSDETIDMLKKT-------ADVSVR---ASESALLKMQENGARIR 193
+           E+S   +R   D +   ++  +M+++        AD S+     SE+A  ++Q++     
+Sbjct: 490 EVSGSTLRIITDDILFGEKVAEMVRRDMLIAEMIADDSITWDMVSETAKNRIQQDAKDYT 549
+
+Query: 194 ENVDTNVKNSTKAIAEMNQLSQNSS--------------AEISELINKLQNEICKAEAMN 239
+           +   T V+NS      MNQ++  +               A + + I+ +  E+    ++ 
+Sbjct: 550 DEEITLVENSL-----MNQIADKAGLDYVDGQLQLKADQANVDDQISTVMQELADKASLT 604
+
+Query: 240 AQMKHLVDSSNAHLKETVSRVEEVQQNTVQAVKQIQETSHXXXXXXXXXXXXXXXXXXXX 299
+                LVD  N     T+S ++    N V   +   +                       
+Sbjct: 605 YVDGQLVDKVNVGTVYTISEIDNKFDNVVSLTRYTTDMD-GVVTELESHETRIYQTEQGL 663
+
+Query: 300 XQEVSQTWVGVFKELISSVDT-SKQIIAAVT--KQTAEKLEAAASEPPVTRPAISPRPAH 356
+             +V QT    F +L+  V T   ++  A T  +Q A  +++ A +  V   ++S   ++
+Sbjct: 664 GSKVEQT---TFNQLVDDVGTIGSELNQAKTSIEQNATAIQSKAEQSTVN--SLSGEVSN 718
+
+Query: 357 QPQVVTPEAIKADAAADNTQEETE 380
+               VT  A       D+T  +T+
+Sbjct: 719 LSSTVTQHAGLIQQKVDSTTYQTD 742
+
+
+>13934_blastp/all_proteins.fasta name|NP_958594|Q6SE70|208
+          Length = 2021
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 49/198 (24%), Positives = 84/198 (42%), Gaps = 13/198 (6%)
+
+Query: 56   AKQYQDSMDKYTALYTQK--AEEASRRSEEMLAKYTDLFEKAVKRA--DDTSRWAKDNCE 111
+            A ++ D   KY      K   E    ++ E+L  +T  + K+V R   ++ S+  KD   
+Sbjct: 1257 ASKFGDGWSKYGKGKKPKDWVEAIGFKAHEILDNFTS-WAKSVGRDINNNISKGKKDVQT 1315
+
+Query: 112  AAVGQTKEAMLRIEDATRSAKQAAQD---SIRTAKEMSDECIRASRDAVSQSDETI--DM 166
+            A+    K +   I  A +  K  AQ+   +I    +   +  + + D V +   +   D 
+Sbjct: 1316 ASSNIHKWSTNFISGAKKDIKSWAQNIGSNIHKDVDKGKKLAKQAGDKVKEWSTSFISDA 1375
+
+Query: 167  LKKTADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAE-MNQLSQNSSAEISELI 225
+             KK  D S +   S +    ENG  + +N  T +KN T    E  + L ++ +  + E I
+Sbjct: 1376 KKKVHDWSSQIG-SNVNNSVENGQAMAKNAGTKIKNWTTDFRESASGLVRSWAERLGEHI 1434
+
+Query: 226  NKLQNEICKAEAMNAQMK 243
+            N   +E  ++ A NA  K
+Sbjct: 1435 NN-GSESSRSGATNAGNK 1451
+
+
+>10935_blastp/all_proteins.fasta name|YP_003920|Q6XQB2|174
+          Length = 728
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 18/84 (21%), Positives = 43/84 (51%), Gaps = 6/84 (7%)
+
+Query: 191 RIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAEAMNAQMKHLVDSSN 250
+           R  ++ +T + ++   IA+++  + N+      ++ ++++    AEA   Q +   DS+N
+Sbjct: 95  RYYQSKETEIASALDIIADLDMDNLNN------IVQEIKSNKSAAEAAQNQAELARDSAN 148
+
+Query: 251 AHLKETVSRVEEVQQNTVQAVKQI 274
+           +   E++S   + QQ +  A+  I
+Sbjct: 149 SARDESISIKNQTQQISDSAIGSI 172
+
+
+>9806_blastp/all_proteins.fasta 
+          Length = 1461
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 25/102 (24%), Positives = 43/102 (42%), Gaps = 4/102 (3%)
+
+Query: 73  KAEEASRRSEEMLAKYTDLFEKAVKRADDTSRWAKDNCEAAVGQTKEAMLRIEDATRSAK 132
+           + E+A  R+EE    Y  L  +     DD +R A D  +A      E+M  +++A R   
+Sbjct: 833 QVEDAKVRAEESRKNYLKLAAEGTATQDDINRAAYDVIQAE-RSWMESMRSLKEAERGEF 891
+
+Query: 133 QAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKTADVS 174
+           +A     +  K  +D+   A  D  +  D    + K  A ++
+Sbjct: 892 EAFD---KQTKTFADDLREALGDMGAALDADFGISKGLAGIA 930
+
+
+>7573_blastp/all_proteins.fasta name|YP_399019|Q0E5Z6|135
+          Length = 149
+
+ Score = 27.3 bits (59), Expect = 6.3
+ Identities = 12/44 (27%), Positives = 27/44 (61%)
+
+Query: 127 ATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKT 170
+           AT++   AA+ +++   + +D+ +R +RD V Q  E +  +++T
+Sbjct: 3   ATKNLNGAARVAVQAKLDAADKELRKARDLVQQRTEELGRVRET 46
+
+
+>23730_blastp/all_proteins.fasta name|YP_950683|A1BU69|370
+          Length = 510
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 17/72 (23%), Positives = 35/72 (48%)
+
+Query: 111 EAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETIDMLKKT 170
+           E  V Q K+ +   +    S KQ A++ +    +   + I +  DA+  S+++ID+ ++ 
+Sbjct: 164 EKKVQQLKQDIGDTQTLIESIKQTAEEYLIKINKAQADAIVSITDALLSSNQSIDLEREE 223
+
+Query: 171 ADVSVRASESAL 182
+           A   + A   A+
+Sbjct: 224 ALRQIDAKRDAI 235
+
+
+>16160_blastp/all_proteins.fasta name|YP_214251|Q58MY6|246
+          Length = 420
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 19/68 (27%), Positives = 30/68 (44%), Gaps = 1/68 (1%)
+
+Query: 187 ENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQNEICKAE-AMNAQMKHL 245
+           E GA  +EN D  +  S   +   +  SQ  S  I    N    +I + E A+  Q K+ 
+Sbjct: 322 EKGASKKENADPTLSQSQALMRYNSVFSQKLSMTIPSNTNLEAGDIIECEFALATQEKNT 381
+
+Query: 246 VDSSNAHL 253
+           +D+  + L
+Sbjct: 382 IDTEQSGL 389
+
+
+>15239_blastp/all_proteins.fasta name|YP_164334|Q5ULP4|227
+          Length = 638
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 40/238 (16%), Positives = 107/238 (44%), Gaps = 21/238 (8%)
+
+Query: 43  RDSQTAIDKADTTAKQYQDSMDKYTA-LYTQKAEEASRRSEEMLAKYTDLFEKAVKRADD 101
+           ++++  +D  + T    +  ++     L  +K++E  R+     AK +  +E ++K  ++
+Sbjct: 177 KEAKEVLDSVERTKSNLEIKVESLKKQLELEKSQEKQRKENINYAKNS--YEASLKEYEE 234
+
+Query: 102 TSR-WAKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQS 160
+             + + K   E +    K A L++   T ++ +  Q ++ + KE +   I+   +A  Q 
+Sbjct: 235 LDKSFEKSKQETSDVPDKIASLKV---TLNSLKEEQYNLESPKETNS--IQRKLNAEMQK 289
+
+Query: 161 DET-IDMLKKT-ADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQ--- 215
+             T ++  K++ AD++   S+   +K  +    +      N ++    +A +    +   
+Sbjct: 290 KNTAVERAKRSKADLNKFGSQYKEIKNAKQATCLYCGSPLNEEHKKTELARLADEGRKCL 349
+
+Query: 216 ---NSSAEISELIN----KLQNEICKAEAMNAQMKHLVDSSNAHLKETVSRVEEVQQN 266
+              N+  ++ +  N    KL++E+ +    N+Q++      N  + +T+S +  ++++
+Sbjct: 350 DVINTEKQVYKEANAAYSKLESELDRINEYNSQLQPKTIELNNKINQTMSEINSLEKS 407
+
+
+>6869_blastp/all_proteins.fasta name|YP_195273|Q2Z102|123
+          Length = 378
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 17/74 (22%), Positives = 32/74 (43%)
+
+Query: 170 TADVSVRASESALLKMQENGARIRENVDTNVKNSTKAIAEMNQLSQNSSAEISELINKLQ 229
+           TA+  V      L       +++++ VD NV+ S +   E+  L      E+ +  N+ Q
+Sbjct: 256 TAEKKVVELNKQLSSANNEISKLKDLVDENVRKSVELGIELTHLKSAHRLELMQARNERQ 315
+
+Query: 230 NEICKAEAMNAQMK 243
+            E+ + +  N   K
+Sbjct: 316 LEVNRLQINNDATK 329
+
+
+>1694_blastp/all_proteins.fasta name|NP_108726|Q9AYV8|34
+          Length = 1025
+
+ Score = 26.9 bits (58), Expect = 8.2
+ Identities = 40/193 (20%), Positives = 76/193 (39%), Gaps = 22/193 (11%)
+
+Query: 106 AKDNCEAAVGQTKEAMLRIEDATRSAKQAAQDSIRTAKEMSDECIRASRDAVSQSDETID 165
+           A  N  A VG   EAM  I     S   + ++       MSD  I+ S+   S       
+Sbjct: 180 AAANTNAEVGDMGEAMKYIAPVANSMGLSIEEVSAAIGIMSDAGIKGSQAGTSLRGALSR 239
+
+Query: 166 MLKKTADVSVRASESALLKMQENGAR--IRENVDTNVKNSTKAIAEMNQ-------LSQN 216
+           + K T  +  +  E  L      G    +++ +   +K++ K +    Q         Q 
+Sbjct: 240 LAKPTDAMQAKMDELGLSFYDSEGKMKPLKDQIGM-LKDAFKGLTPEQQQNALVTLYGQE 298
+
+Query: 217 SSAEISELINKLQNEICKAE--------AMNAQMKHLVDSSNAHLKETVSRVEE----VQ 264
+           S + +  LI+K  +++ K          A +   K + D+ N+ L++ +  +E     VQ
+Sbjct: 299 SLSGMIALIDKGPDKLGKLTESLKNSDGAADKMAKTMQDNMNSSLEQMMGALESAAIVVQ 358
+
+Query: 265 QNTVQAVKQIQET 277
+           +    AV+++ ++
+Sbjct: 359 KILAPAVRKVADS 371
+
+
+  Database: blastp/all_proteins.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 5,567,486
+  Number of sequences in database:  26,402
+  
+Lambda     K      H
+   0.304    0.117    0.298 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 26402
+Number of Hits to DB: 3,413,838
+Number of extensions: 107858
+Number of successful extensions: 598
+Number of sequences better than 10.0: 106
+Number of HSP's gapped: 593
+Number of HSP's successfully gapped: 119
+Length of query: 441
+Length of database: 5,567,486
+Length adjustment: 95
+Effective length of query: 346
+Effective length of database: 3,059,296
+Effective search space: 1058516416
+Effective search space used: 1058516416
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 43 (22.0 bits)
+S2: 58 (26.9 bits)

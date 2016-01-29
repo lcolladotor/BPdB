@@ -1,0 +1,140 @@
+BLASTN 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= ggy  gyi
+         (64 letters)
+
+Database: blastn/all_genes.fasta 
+           26,960 sequences; 16,983,420 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+16428_blastn/all_genes.fasta name|244                                  32   0.16 
+24329_blastn/all_genes.fasta name|372                                  28   2.6  
+19655_blastn/all_genes.fasta name|275                                  28   2.6  
+16100_blastn/all_genes.fasta                                           28   2.6  
+6964_blastn/all_genes.fasta name|123                                   28   2.6  
+5157_blastn/all_genes.fasta                                            28   2.6  
+
+>16428_blastn/all_genes.fasta name|244
+          Length = 239
+
+ Score = 32.2 bits (16), Expect = 0.16
+ Identities = 16/16 (100%)
+ Strand = Plus / Plus
+
+                           
+Query: 29  atgagagtagttgagt 44
+           ||||||||||||||||
+Sbjct: 222 atgagagtagttgagt 237
+
+
+>24329_blastn/all_genes.fasta name|372
+          Length = 1892
+
+ Score = 28.2 bits (14), Expect = 2.6
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                         
+Query: 48  acgctgcgtatgac 61
+           ||||||||||||||
+Sbjct: 181 acgctgcgtatgac 194
+
+
+>19655_blastn/all_genes.fasta name|275
+          Length = 179
+
+ Score = 28.2 bits (14), Expect = 2.6
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 44 tctgacgctgcgta 57
+          ||||||||||||||
+Sbjct: 71 tctgacgctgcgta 58
+
+
+>16100_blastn/all_genes.fasta 
+          Length = 179
+
+ Score = 28.2 bits (14), Expect = 2.6
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 44 tctgacgctgcgta 57
+          ||||||||||||||
+Sbjct: 71 tctgacgctgcgta 58
+
+
+>6964_blastn/all_genes.fasta name|123
+          Length = 1256
+
+ Score = 28.2 bits (14), Expect = 2.6
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                         
+Query: 1   aatgccactgagaa 14
+           ||||||||||||||
+Sbjct: 780 aatgccactgagaa 793
+
+
+>5157_blastn/all_genes.fasta 
+          Length = 179
+
+ Score = 28.2 bits (14), Expect = 2.6
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 44 tctgacgctgcgta 57
+          ||||||||||||||
+Sbjct: 71 tctgacgctgcgta 58
+
+
+  Database: blastn/all_genes.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 16,983,420
+  Number of sequences in database:  26,960
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 26960
+Number of Hits to DB: 6860
+Number of extensions: 307
+Number of successful extensions: 301
+Number of sequences better than 10.0: 6
+Number of HSP's gapped: 301
+Number of HSP's successfully gapped: 6
+Length of query: 64
+Length of database: 16,983,420
+Length adjustment: 15
+Effective length of query: 49
+Effective length of database: 16,579,020
+Effective search space: 812371980
+Effective search space used: 812371980
+X1: 11 (21.8 bits)
+X2: 15 (29.7 bits)
+X3: 25 (49.6 bits)
+S1: 11 (22.3 bits)
+S2: 14 (28.2 bits)

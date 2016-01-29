@@ -1,0 +1,14 @@
+1	Plasmaviridae	10472	35237
+2	Fuselloviridae	10474	35237
+3	Lipothrixviridae	10477	35237
+4	Tectiviridae	10656	35237
+5	Corticoviridae	10659	35237
+6	Myoviridae	10662	28883
+7	Siphoviridae	10699	28883
+8	Podoviridae	10744	28883
+9	Microviridae	10841	29258
+10	Inoviridae	10860	29258
+11	Cystoviridae	10877	35325
+12	Leviviridae	11989	35278
+13	Rudiviridae	157897	35237
+13 rows

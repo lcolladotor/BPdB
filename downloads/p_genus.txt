@@ -1,0 +1,36 @@
+1	Plasmavirus	10473	10472
+2	Fusellovirus	10475	10474
+3	Tectivirus	10657	10656
+4	Corticovirus	10660	10659
+5	T4-like viruses	10663	10662
+6	Microvirus	10842	10841
+7	Spiromicrovirus	10852	10841
+8	Bdellomicrovirus	10856	10841
+9	Inovirus	10861	10860
+10	Plectrovirus	10875	10860
+11	Cystovirus	10878	10877
+12	Levivirus	11990	11989
+13	Allolevivirus	12008	11989
+14	Chlamydiamicrovirus	40274	10841
+15	T7-like viruses	110456	10744
+16	SPO1-like viruses	140409	10662
+17	P2-like viruses	140410	10662
+18	phiH-like viruses	169682	10662
+19	c2-like viruses	186532	10699
+20	L5-like viruses	186764	10699
+21	Lambda-like viruses	186765	10699
+22	Mu-like viruses	186777	10662
+23	P1-like viruses	186789	10662
+24	P22-like viruses	186794	10744
+25	Phi29-like viruses	186846	10744
+26	psiM1-like viruses	186914	10699
+27	Rudivirus	187213	157897
+28	T1-like viruses	187217	10699
+29	T5-like viruses	187218	10699
+30	N15-like viruses	308911	10699
+31	PhiC31-like viruses	308912	10699
+32	Alphalipothrixvirus	341939	10477
+33	Betalipothrixvirus	341940	10477
+34	Gammalipothrixvirus	341941	10477
+35	N4-like viruses	371730	10744
+35 rows

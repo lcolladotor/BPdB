@@ -1,0 +1,98 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= 
+         (94 letters)
+
+Database: blastp/all_proteins.fasta 
+           26,402 sequences; 5,567,486 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+26105_blastp/all_proteins.fasta                                        25   3.2  
+18756_blastp/all_proteins.fasta                                        25   4.1  
+13528_blastp/all_proteins.fasta                                        25   4.1  
+
+>26105_blastp/all_proteins.fasta 
+          Length = 306
+
+ Score = 25.4 bits (54), Expect = 3.2
+ Identities = 16/66 (24%), Positives = 32/66 (48%), Gaps = 2/66 (3%)
+
+Query: 19 IWFITYTQFK-NISFKWWEWXXXXXXXXXXXXIFQHMYSSMSVEMEYQSAFMYLGVFGTL 77
+          +WF TY ++  +++++ +EW            + + ++    V       + YLGV GTL
+Sbjct: 21 LWFRTYQRYLFSLAYQMFEWQGLPKTVDPIF-LEKQLHQRGFVAFYKDEMYGYLGVQGTL 79
+
+Query: 78 AVILNL 83
+          +  +NL
+Sbjct: 80 SGQINL 85
+
+
+>18756_blastp/all_proteins.fasta 
+          Length = 180
+
+ Score = 25.0 bits (53), Expect = 4.1
+ Identities = 8/15 (53%), Positives = 10/15 (66%)
+
+Query: 20  WFITYTQFKNISFKW 34
+           WF+   +FKN SF W
+Sbjct: 106 WFVNPLEFKNSSFTW 120
+
+
+>13528_blastp/all_proteins.fasta 
+          Length = 180
+
+ Score = 25.0 bits (53), Expect = 4.1
+ Identities = 8/15 (53%), Positives = 10/15 (66%)
+
+Query: 20  WFITYTQFKNISFKW 34
+           WF+   +FKN SF W
+Sbjct: 106 WFVNPLEFKNSSFTW 120
+
+
+  Database: blastp/all_proteins.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 5,567,486
+  Number of sequences in database:  26,402
+  
+Lambda     K      H
+   0.330    0.141    0.479 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 26402
+Number of Hits to DB: 907,657
+Number of extensions: 22989
+Number of successful extensions: 51
+Number of sequences better than 10.0: 3
+Number of HSP's gapped: 51
+Number of HSP's successfully gapped: 3
+Length of query: 94
+Length of database: 5,567,486
+Length adjustment: 59
+Effective length of query: 35
+Effective length of database: 4,009,768
+Effective search space: 140341880
+Effective search space used: 140341880
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 15 ( 7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 40 (21.9 bits)
+S2: 50 (23.9 bits)

@@ -1,0 +1,194 @@
+BLASTP 2.2.16 [Mar-25-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= 
+         (604 letters)
+
+Database: blastp/all_proteins.fasta 
+           26,402 sequences; 5,567,486 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+16033_blastp/all_proteins.fasta name|YP_529576|Q24LH4|244              30   1.4  
+14600_blastp/all_proteins.fasta name|YP_224011|Q5DN19|218              30   1.8  
+19045_blastp/all_proteins.fasta                                        29   3.1  
+7537_blastp/all_proteins.fasta                                         29   3.1  
+6094_blastp/all_proteins.fasta                                         28   4.0  
+24804_blastp/all_proteins.fasta                                        28   5.3  
+19148_blastp/all_proteins.fasta name|YP_239268|Q52PQ3|274              28   5.3  
+5859_blastp/all_proteins.fasta name|NP_510990|Q8W601|109               28   6.9  
+24255_blastp/all_proteins.fasta name|YP_874172|A0MNH6|374              27   9.0  
+
+>16033_blastp/all_proteins.fasta name|YP_529576|Q24LH4|244
+          Length = 207
+
+ Score = 30.0 bits (66), Expect = 1.4
+ Identities = 17/59 (28%), Positives = 28/59 (47%), Gaps = 1/59 (1%)
+
+Query: 447 PGALIDPNTWNLLQYSASIPISQGQTSVSIPLSRKEGTSAKAGYTKLNFTLGDGKGFTN 505
+           PG  ID  T+ +     +I +  G   + I +S ++  +   G  K    +GDG G+TN
+Sbjct: 80  PGTKIDGKTYTVTDRGGAIGLKNGVYRIDILMSSEKECN-DFGRRKGTIIIGDGTGYTN 137
+
+
+>14600_blastp/all_proteins.fasta name|YP_224011|Q5DN19|218
+          Length = 1152
+
+ Score = 29.6 bits (65), Expect = 1.8
+ Identities = 19/58 (32%), Positives = 32/58 (55%), Gaps = 4/58 (6%)
+
+Query: 127 VSGPMMVDLDPTSGVTTQIYLG--GLQIGGTSDPQLVIHANLVASSFDVAQRLLNGED 182
+           V+ P++ D+D T+G+ +++Y G  G Q G   D   ++ +    S+FD   R L G D
+Sbjct: 838 VNVPLLRDIDDTAGLASRVYYGMSGFQDGW--DGGSLLQSLDSGSTFDEISRALAGTD 893
+
+
+>19045_blastp/all_proteins.fasta 
+          Length = 463
+
+ Score = 28.9 bits (63), Expect = 3.1
+ Identities = 44/204 (21%), Positives = 71/204 (34%), Gaps = 33/204 (16%)
+
+Query: 16  RTDVSLPNNSP------------TIYMGPDDK----QKLNLFDIPNSQVAAAAQSYSD-- 57
+           RTDV LPN +P             I  G D++      L  + + N   +     Y+   
+Sbjct: 44  RTDVGLPNAAPGMRGIAAIATEAMIDAGTDNETIVTPALLAYRLQNPHASQTVWGYTKYA 103
+
+Query: 58  ------DELNDLMNAPYDDYYTAGGWNHYGQHVVDMQNVLISSQGTPGAISTTGDLVGQP 111
+                 D  NDL++             H  + V     +  ++Q T G   TT     + 
+Sbjct: 104 TDAEAVDVANDLVSLTPRSINVVFNTRHASETVWGSSKLSTTAQATAGTDDTTSMTPLKV 163
+
+Query: 112 VYLLGSVDPVTGQAPVSGPMMVDLDPTSGVTTQIYLGGLQIGGTSDPQLVIHANLVASSF 171
+              + ++ PV   A  S   +V L       +++  G ++ G    P   I  N   S  
+Sbjct: 164 KQAISALVPVQSNATESAFGLVQL----ATVSEVRAGTIRDGFAISPYTFIRLNATESDL 219
+
+Query: 172 DV----AQRLLN-GEDDAPGSSPL 190
+            +    +Q  +N G DD    +PL
+Sbjct: 220 GIVRLASQAEVNAGTDDTKAVTPL 243
+
+
+>7537_blastp/all_proteins.fasta 
+          Length = 327
+
+ Score = 28.9 bits (63), Expect = 3.1
+ Identities = 15/42 (35%), Positives = 21/42 (50%), Gaps = 3/42 (7%)
+
+Query: 236 PGMTTPELNADYAAGLYTPNPSIGRVIGTLAPAFAGEPQICP 277
+           PG+  PE         + PN   G ++GTLA    G+PQ+ P
+Sbjct: 108 PGVVLPENLEVPPPPAFIPN---GEIVGTLAGNLEGDPQLAP 146
+
+
+>6094_blastp/all_proteins.fasta 
+          Length = 322
+
+ Score = 28.5 bits (62), Expect = 4.0
+ Identities = 12/26 (46%), Positives = 17/26 (65%), Gaps = 3/26 (11%)
+
+Query: 252 YTPNPSIGRVIGTLAPAFAGEPQICP 277
+           +TPN   G ++GTLA    G+PQ+ P
+Sbjct: 119 FTPN---GEIVGTLAGNLEGDPQLAP 141
+
+
+>24804_blastp/all_proteins.fasta 
+          Length = 1415
+
+ Score = 28.1 bits (61), Expect = 5.3
+ Identities = 32/120 (26%), Positives = 46/120 (38%), Gaps = 23/120 (19%)
+
+Query: 117 SVDPVTGQAPVSGPMMVDLDPTSGVTTQIYLGGLQIGGTSDPQLVIHANLVASSFDVAQR 176
+           ++DP TG+ PVSG M             + + G  +   SDP      + VA+     Q 
+Sbjct: 417 TIDPFTGEIPVSGNM-------------VAIDGAVLEDLSDP------DAVAAFISKNQD 457
+
+Query: 177 LLNGEDDAPGSSPLSGTFQVTFPLSAIVSWNQNSALLKSIIQAPGATGIVVRFVMFEMCP 236
+           +L  ED   GS     T +    LS +V     + +L  +    G    V R   FE  P
+Sbjct: 458 VLTREDVYLGSWVSEITGKPVVELSRLVEDGAEAEMLGRLFDQEG----VFRLDDFEYIP 513
+
+
+>19148_blastp/all_proteins.fasta name|YP_239268|Q52PQ3|274
+          Length = 1339
+
+ Score = 28.1 bits (61), Expect = 5.3
+ Identities = 31/112 (27%), Positives = 41/112 (36%), Gaps = 19/112 (16%)
+
+Query: 386 SAPNTVDNTTLSVSEVAYRLYS---DQRNLYMDDFPEGLTLDLQVRYLGGPVP------- 435
+           +AP  VDN  +       R YS   D   +   DF     + +Q+RYLGG V        
+Sbjct: 878 AAPALVDNLLIEELTGGVRRYSWSFDDTTMQSPDF-----IGVQIRYLGGSVGDPNWVDM 932
+
+Query: 436 -ASGSITLKTTFPGALIDPNTWNLLQYSASIPISQGQTSVSIPLSRKEGTSA 486
+              G  T   TF   L     W     S +   S G  S S+ +  K  T +
+Sbjct: 933 IPLGEGTHTATFESILPPAGAWTFAVRSVN---SSGSLSSSMRIVNKTLTDS 981
+
+
+>5859_blastp/all_proteins.fasta name|NP_510990|Q8W601|109
+          Length = 136
+
+ Score = 27.7 bits (60), Expect = 6.9
+ Identities = 22/83 (26%), Positives = 36/83 (43%), Gaps = 5/83 (6%)
+
+Query: 45  NSQVAAAAQSYSDDELNDLMNAPYD-DYYTAGGWNHYGQHVVDMQNVLISSQGTPGAIST 103
+           N+ +     + S+ ELN+ MN  YD   ++ GG++         Q  LI       A   
+Sbjct: 23  NTGLNVYQDNVSETELNEEMNGVYDYIIFSTGGFSKSD----TSQFTLIQEVTVQVATEN 78
+
+Query: 104 TGDLVGQPVYLLGSVDPVTGQAP 126
+           T DL G  + ++ S++   G  P
+Sbjct: 79  TSDLDGLQIDIITSLEGTGGAGP 101
+
+
+>24255_blastp/all_proteins.fasta name|YP_874172|A0MNH6|374
+          Length = 1347
+
+ Score = 27.3 bits (59), Expect = 9.0
+ Identities = 21/84 (25%), Positives = 41/84 (48%), Gaps = 4/84 (4%)
+
+Query: 246 DYAAGLYTPNPSIGRVIGTLAPAFAGEPQICPVGRQ-LLNSVIKSAGYAQQYSLGSQAML 304
+           +Y+  + TP  ++ +++ + AP    +  I  + R+  L SVI S G+   Y+ G+Q +L
+Sbjct: 501 NYSVKILTPVEAVIKIMNSFAPQ---KINILELDRETFLTSVISSRGFDTFYNAGTQNIL 557
+
+Query: 305 SLDMVNLIPKANFRAVRTDITSPI 328
+                 + P  + +     I +PI
+Sbjct: 558 INQGNVVAPSYDAKFEELSIFTPI 581
+
+
+  Database: blastp/all_proteins.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 5,567,486
+  Number of sequences in database:  26,402
+  
+Lambda     K      H
+   0.317    0.134    0.402 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 26402
+Number of Hits to DB: 6,773,981
+Number of extensions: 296407
+Number of successful extensions: 691
+Number of sequences better than 10.0: 9
+Number of HSP's gapped: 691
+Number of HSP's successfully gapped: 9
+Length of query: 604
+Length of database: 5,567,486
+Length adjustment: 97
+Effective length of query: 507
+Effective length of database: 3,006,492
+Effective search space: 1524291444
+Effective search space used: 1524291444
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.6 bits)
+S2: 59 (27.3 bits)

@@ -1,0 +1,15 @@
+1	GO	The Gene Ontology (GO) project is a 
+collaborative effort to address the need for 
+consistent descriptions of gene products in 
+different databases. It has developed three 
+structured controlled vocabularies (ontologies) 
+that describe gene products in terms of their 
+associated biological processes, cellular 
+components and molecular functions in a 
+species-independent manner.	http://www.geneontology.org/
+2	InterPro	InterPro is a database of protein families,
+domains and functional sites in which 
+identifiable features found in known 
+proteins can be applied to 
+unknown protein sequences.	http://www.ebi.ac.uk/interpro/
+2 rows

@@ -1,0 +1,909 @@
+BLASTN 2.2.14 [May-07-2006]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+Database: blastn/all_genes.fasta 
+           26,960 sequences; 16,983,420 total letters
+
+Searching
+
+Query= 
+         (15 letters)
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+16931_blastn/all_genes.fasta name|247                                  28   0.16 
+11184_blastn/all_genes.fasta name|175                                  26   0.62 
+762_blastn/all_genes.fasta name|15                                     26   0.62 
+16968_blastn/all_genes.fasta                                           24   2.5  
+12372_blastn/all_genes.fasta                                           24   2.5  
+10739_blastn/all_genes.fasta                                           24   2.5  
+6117_blastn/all_genes.fasta name|111                                   24   2.5  
+4414_blastn/all_genes.fasta                                            24   2.5  
+3219_blastn/all_genes.fasta                                            24   2.5  
+22301_blastn/all_genes.fasta                                           22   9.7  
+21537_blastn/all_genes.fasta                                           22   9.7  
+20920_blastn/all_genes.fasta                                           22   9.7  
+19179_blastn/all_genes.fasta                                           22   9.7  
+19048_blastn/all_genes.fasta                                           22   9.7  
+18997_blastn/all_genes.fasta                                           22   9.7  
+16977_blastn/all_genes.fasta name|247                                  22   9.7  
+16790_blastn/all_genes.fasta                                           22   9.7  
+15801_blastn/all_genes.fasta                                           22   9.7  
+15476_blastn/all_genes.fasta name|226                                  22   9.7  
+15141_blastn/all_genes.fasta                                           22   9.7  
+14805_blastn/all_genes.fasta                                           22   9.7  
+14804_blastn/all_genes.fasta                                           22   9.7  
+14798_blastn/all_genes.fasta                                           22   9.7  
+14685_blastn/all_genes.fasta                                           22   9.7  
+14508_blastn/all_genes.fasta name|214                                  22   9.7  
+14324_blastn/all_genes.fasta name|210                                  22   9.7  
+14243_blastn/all_genes.fasta name|209                                  22   9.7  
+13830_blastn/all_genes.fasta                                           22   9.7  
+13696_blastn/all_genes.fasta name|201                                  22   9.7  
+13644_blastn/all_genes.fasta                                           22   9.7  
+13380_blastn/all_genes.fasta                                           22   9.7  
+13310_blastn/all_genes.fasta                                           22   9.7  
+12948_blastn/all_genes.fasta name|191                                  22   9.7  
+12031_blastn/all_genes.fasta name|186                                  22   9.7  
+11944_blastn/all_genes.fasta                                           22   9.7  
+11936_blastn/all_genes.fasta name|185                                  22   9.7  
+11810_blastn/all_genes.fasta                                           22   9.7  
+11728_blastn/all_genes.fasta name|185                                  22   9.7  
+11699_blastn/all_genes.fasta name|185                                  22   9.7  
+11635_blastn/all_genes.fasta name|185                                  22   9.7  
+11594_blastn/all_genes.fasta                                           22   9.7  
+9730_blastn/all_genes.fasta                                            22   9.7  
+9334_blastn/all_genes.fasta                                            22   9.7  
+9312_blastn/all_genes.fasta                                            22   9.7  
+9162_blastn/all_genes.fasta name|153                                   22   9.7  
+9157_blastn/all_genes.fasta name|153                                   22   9.7  
+8744_blastn/all_genes.fasta name|145                                   22   9.7  
+8739_blastn/all_genes.fasta name|145                                   22   9.7  
+8610_blastn/all_genes.fasta name|144                                   22   9.7  
+6820_blastn/all_genes.fasta                                            22   9.7  
+6724_blastn/all_genes.fasta name|121                                   22   9.7  
+6099_blastn/all_genes.fasta name|111                                   22   9.7  
+5703_blastn/all_genes.fasta name|103                                   22   9.7  
+5417_blastn/all_genes.fasta                                            22   9.7  
+5267_blastn/all_genes.fasta name|97                                    22   9.7  
+5232_blastn/all_genes.fasta                                            22   9.7  
+4292_blastn/all_genes.fasta                                            22   9.7  
+3996_blastn/all_genes.fasta name|76                                    22   9.7  
+3995_blastn/all_genes.fasta name|76                                    22   9.7  
+2595_blastn/all_genes.fasta name|47                                    22   9.7  
+154_blastn/all_genes.fasta name|5                                      22   9.7  
+
+>16931_blastn/all_genes.fasta name|247
+          Length = 1187
+
+ Score = 28.2 bits (14), Expect = 0.16
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                         
+Query: 1   ttaacttgatcttc 14
+           ||||||||||||||
+Sbjct: 760 ttaacttgatcttc 747
+
+
+>11184_blastn/all_genes.fasta name|175
+          Length = 344
+
+ Score = 26.3 bits (13), Expect = 0.62
+ Identities = 13/13 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 1   ttaacttgatctt 13
+           |||||||||||||
+Sbjct: 238 ttaacttgatctt 226
+
+
+>762_blastn/all_genes.fasta name|15
+          Length = 1319
+
+ Score = 26.3 bits (13), Expect = 0.62
+ Identities = 13/13 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 3   aacttgatcttcg 15
+           |||||||||||||
+Sbjct: 508 aacttgatcttcg 496
+
+
+>16968_blastn/all_genes.fasta 
+          Length = 2480
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Minus
+
+                        
+Query: 3    aacttgatcttc 14
+            ||||||||||||
+Sbjct: 2278 aacttgatcttc 2267
+
+
+>12372_blastn/all_genes.fasta 
+          Length = 3770
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Plus
+
+                        
+Query: 4    acttgatcttcg 15
+            ||||||||||||
+Sbjct: 2215 acttgatcttcg 2226
+
+
+>10739_blastn/all_genes.fasta 
+          Length = 929
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 2   taacttgatctt 13
+           ||||||||||||
+Sbjct: 330 taacttgatctt 319
+
+
+>6117_blastn/all_genes.fasta name|111
+          Length = 338
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 1  ttaacttgatct 12
+          ||||||||||||
+Sbjct: 19 ttaacttgatct 30
+
+
+>4414_blastn/all_genes.fasta 
+          Length = 1133
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 1   ttaacttgatct 12
+           ||||||||||||
+Sbjct: 460 ttaacttgatct 449
+
+
+>3219_blastn/all_genes.fasta 
+          Length = 1172
+
+ Score = 24.3 bits (12), Expect = 2.5
+ Identities = 12/12 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 2   taacttgatctt 13
+           ||||||||||||
+Sbjct: 745 taacttgatctt 734
+
+
+>22301_blastn/all_genes.fasta 
+          Length = 2255
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2169 aacttgatctt 2179
+
+
+>21537_blastn/all_genes.fasta 
+          Length = 623
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 226 aacttgatctt 216
+
+
+>20920_blastn/all_genes.fasta 
+          Length = 275
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 4   acttgatcttc 14
+           |||||||||||
+Sbjct: 250 acttgatcttc 240
+
+
+>19179_blastn/all_genes.fasta 
+          Length = 659
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                     
+Query: 3  aacttgatctt 13
+          |||||||||||
+Sbjct: 3  aacttgatctt 13
+
+
+>19048_blastn/all_genes.fasta 
+          Length = 923
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 345 aacttgatctt 355
+
+
+>18997_blastn/all_genes.fasta 
+          Length = 224
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 208 aacttgatctt 198
+
+
+>16977_blastn/all_genes.fasta name|247
+          Length = 1151
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 397 aacttgatctt 387
+
+
+>16790_blastn/all_genes.fasta 
+          Length = 3284
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                       
+Query: 4    acttgatcttc 14
+            |||||||||||
+Sbjct: 1481 acttgatcttc 1491
+
+
+>15801_blastn/all_genes.fasta 
+          Length = 4190
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2083 aacttgatctt 2073
+
+
+>15476_blastn/all_genes.fasta name|226
+          Length = 1814
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 614 cttgatcttcg 604
+
+
+>15141_blastn/all_genes.fasta 
+          Length = 4190
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2083 aacttgatctt 2073
+
+
+>14805_blastn/all_genes.fasta 
+          Length = 332
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 168 aacttgatctt 178
+
+
+>14804_blastn/all_genes.fasta 
+          Length = 2051
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 4   acttgatcttc 14
+           |||||||||||
+Sbjct: 460 acttgatcttc 470
+
+
+>14798_blastn/all_genes.fasta 
+          Length = 257
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                     
+Query: 2  taacttgatct 12
+          |||||||||||
+Sbjct: 62 taacttgatct 72
+
+
+>14685_blastn/all_genes.fasta 
+          Length = 4190
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2083 aacttgatctt 2073
+
+
+>14508_blastn/all_genes.fasta name|214
+          Length = 923
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 4   acttgatcttc 14
+           |||||||||||
+Sbjct: 585 acttgatcttc 575
+
+
+>14324_blastn/all_genes.fasta name|210
+          Length = 1478
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 284 cttgatcttcg 274
+
+
+>14243_blastn/all_genes.fasta name|209
+          Length = 1397
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 203 cttgatcttcg 193
+
+
+>13830_blastn/all_genes.fasta 
+          Length = 659
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                     
+Query: 3  aacttgatctt 13
+          |||||||||||
+Sbjct: 3  aacttgatctt 13
+
+
+>13696_blastn/all_genes.fasta name|201
+          Length = 923
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 345 aacttgatctt 355
+
+
+>13644_blastn/all_genes.fasta 
+          Length = 224
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 208 aacttgatctt 198
+
+
+>13380_blastn/all_genes.fasta 
+          Length = 1967
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 728 cttgatcttcg 718
+
+
+>13310_blastn/all_genes.fasta 
+          Length = 1970
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 731 cttgatcttcg 721
+
+
+>12948_blastn/all_genes.fasta name|191
+          Length = 656
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 1   ttaacttgatc 11
+           |||||||||||
+Sbjct: 280 ttaacttgatc 270
+
+
+>12031_blastn/all_genes.fasta name|186
+          Length = 350
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                     
+Query: 5  cttgatcttcg 15
+          |||||||||||
+Sbjct: 60 cttgatcttcg 50
+
+
+>11944_blastn/all_genes.fasta 
+          Length = 3938
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 2    taacttgatct 12
+            |||||||||||
+Sbjct: 2238 taacttgatct 2228
+
+
+>11936_blastn/all_genes.fasta name|185
+          Length = 473
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 426 aacttgatctt 436
+
+
+>11810_blastn/all_genes.fasta 
+          Length = 995
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 588 cttgatcttcg 598
+
+
+>11728_blastn/all_genes.fasta name|185
+          Length = 617
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 111 aacttgatctt 121
+
+
+>11699_blastn/all_genes.fasta name|185
+          Length = 728
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                     
+Query: 3  aacttgatctt 13
+          |||||||||||
+Sbjct: 40 aacttgatctt 30
+
+
+>11635_blastn/all_genes.fasta name|185
+          Length = 482
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 4   acttgatcttc 14
+           |||||||||||
+Sbjct: 97  acttgatcttc 107
+
+
+>11594_blastn/all_genes.fasta 
+          Length = 680
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 517 aacttgatctt 527
+
+
+>9730_blastn/all_genes.fasta 
+          Length = 1727
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 5    cttgatcttcg 15
+            |||||||||||
+Sbjct: 1403 cttgatcttcg 1393
+
+
+>9334_blastn/all_genes.fasta 
+          Length = 389
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                     
+Query: 5  cttgatcttcg 15
+          |||||||||||
+Sbjct: 62 cttgatcttcg 72
+
+
+>9312_blastn/all_genes.fasta 
+          Length = 887
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 757 aacttgatctt 747
+
+
+>9162_blastn/all_genes.fasta name|153
+          Length = 611
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 480 cttgatcttcg 470
+
+
+>9157_blastn/all_genes.fasta name|153
+          Length = 716
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 1   ttaacttgatc 11
+           |||||||||||
+Sbjct: 106 ttaacttgatc 96
+
+
+>8744_blastn/all_genes.fasta name|145
+          Length = 1184
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 1   ttaacttgatc 11
+           |||||||||||
+Sbjct: 379 ttaacttgatc 389
+
+
+>8739_blastn/all_genes.fasta name|145
+          Length = 3875
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 2    taacttgatct 12
+            |||||||||||
+Sbjct: 1500 taacttgatct 1490
+
+
+>8610_blastn/all_genes.fasta name|144
+          Length = 1532
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 4    acttgatcttc 14
+            |||||||||||
+Sbjct: 1503 acttgatcttc 1493
+
+
+>6820_blastn/all_genes.fasta 
+          Length = 716
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                     
+Query: 4  acttgatcttc 14
+          |||||||||||
+Sbjct: 69 acttgatcttc 59
+
+
+>6724_blastn/all_genes.fasta name|121
+          Length = 473
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 3   aacttgatctt 13
+           |||||||||||
+Sbjct: 364 aacttgatctt 354
+
+
+>6099_blastn/all_genes.fasta name|111
+          Length = 470
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 4   acttgatcttc 14
+           |||||||||||
+Sbjct: 304 acttgatcttc 294
+
+
+>5703_blastn/all_genes.fasta name|103
+          Length = 290
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 203 cttgatcttcg 213
+
+
+>5417_blastn/all_genes.fasta 
+          Length = 2189
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 5    cttgatcttcg 15
+            |||||||||||
+Sbjct: 1004 cttgatcttcg 994
+
+
+>5267_blastn/all_genes.fasta name|97
+          Length = 2255
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2169 aacttgatctt 2179
+
+
+>5232_blastn/all_genes.fasta 
+          Length = 1967
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 728 cttgatcttcg 718
+
+
+>4292_blastn/all_genes.fasta 
+          Length = 1409
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 198 cttgatcttcg 188
+
+
+>3996_blastn/all_genes.fasta name|76
+          Length = 2042
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                     
+Query: 5  cttgatcttcg 15
+          |||||||||||
+Sbjct: 8  cttgatcttcg 18
+
+
+>3995_blastn/all_genes.fasta name|76
+          Length = 854
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Plus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 735 cttgatcttcg 745
+
+
+>2595_blastn/all_genes.fasta name|47
+          Length = 4454
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                       
+Query: 3    aacttgatctt 13
+            |||||||||||
+Sbjct: 2797 aacttgatctt 2787
+
+
+>154_blastn/all_genes.fasta name|5
+          Length = 1232
+
+ Score = 22.3 bits (11), Expect = 9.7
+ Identities = 11/11 (100%)
+ Strand = Plus / Minus
+
+                      
+Query: 5   cttgatcttcg 15
+           |||||||||||
+Sbjct: 807 cttgatcttcg 797
+
+
+  Database: blastn/all_genes.fasta
+    Posted date:  Dec 7, 2007  4:59 AM
+  Number of letters in database: 16,983,420
+  Number of sequences in database:  26,960
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 26960
+Number of Hits to DB: 1446
+Number of extensions: 61
+Number of successful extensions: 61
+Number of sequences better than 10.0: 61
+Number of HSP's gapped: 61
+Number of HSP's successfully gapped: 61
+Length of query: 15
+Length of database: 16,983,420
+Length adjustment: 12
+Effective length of query: 3
+Effective length of database: 16,659,900
+Effective search space: 49979700
+Effective search space used: 49979700
+X1: 10 (19.8 bits)
+X2: 15 (29.7 bits)
+X3: 25 (49.6 bits)
+S1: 10 (20.3 bits)
+S2: 11 (22.3 bits)
